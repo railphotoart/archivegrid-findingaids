@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead
+     xmlns="urn:isbn:1-931666-22-9" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+		<eadid countrycode="US" mainagencycode="WiMaCRP">US-WiMaCRP-Lewis</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Hal Lewis collection of railroad photographs</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Center for Railroad Photography &amp; Art</publisher>
+				<date normal="2024-03-20">March 20, 2024</date>
+				<address>
+					<addressline>1930 Monroe Street</addressline>
+					<addressline>Suite 301</addressline>
+					<addressline>Madison, Wisconsin 53711</addressline>
+					<addressline>Phone: 608-251-5785</addressline>
+					<addressline>Email: info@railphoto-art.org</addressline>
+					<addressline>Website: <extptr xlink:href="https://railphoto-art.org/" xlink:show="new" xlink:type="simple" />https://railphoto-art.org</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>This finding aid was encoded by Jordan Craig in 2024.</creation>
+			<langusage>Description is written in <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+			<descrules>The Center for Railroad Photography &amp; Art follows Describing Archives: A Content Standard for finding aids.</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection">
+		<did>
+			<repository>
+				<corpname source="lcnaf" normal="Center for Railroad Photography and Art" authfilenumber="no2002103517">Center for Railroad Photography &amp; Art</corpname>
+			</repository>
+			<unittitle>Hal Lewis collection of railroad photographs</unittitle>
+			<origination label="Photographer">
+				<persname normal="Lewis, Harold O., 1932-" source="lcnaf" authfilenumber="no2015067965">Lewis, Hal</persname>
+			</origination>
+			<unitid>2011.4</unitid>
+			<physdesc>
+				<extent type="shelf" unit="feet">0.8 linear feet</extent>
+				<extent type="container">1 box</extent>
+				<extent type="contents">About 1,600 images</extent>, including <genreform source="aat">photographs</genreform> and <genreform source="aat">Color slides</genreform>.
+			</physdesc>
+			<unitdate type="inclusive" normal="1947/1998">1947-1998</unitdate>
+			<unitdate type="bulk" normal="1947/1959">1947-1959</unitdate>
+			<abstract>Collection of about 1,600 railroad photographs from the United States, Mexico, Canada, Ecuador, and Brazil. Strengths include steam locomotives in the American mid-Atlantic, midwest, and west coast regions, such as the New York Central Railroad, Baltimore &amp; Ohio Railway, Northern Pacific Railway, Southern Pacific Railroad, and West Side Lumber Company Railroad.</abstract>
+			<langmaterial>
+				<language langcode="eng" scriptcode="Latn">English</language>
+			</langmaterial>
+		</did>
+		<controlaccess>
+			<head>Selected Search Terms</head>
+			<controlaccess>
+				<head>Countries</head>
+				<geogname source="tgn">Brazil</geogname>
+				<geogname source="tgn">Canada</geogname>
+				<geogname source="tgn">Ecaudor</geogname>
+				<geogname source="tgn">Mexico</geogname>
+				<geogname source="tgn">United States</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>States/Provinces</head>
+				<geogname source="tgn">Aguascalientes</geogname>
+				<geogname source="tgn">Arizona</geogname>
+				<geogname source="tgn">British Columbia</geogname>
+				<geogname source="tgn">California</geogname>
+				<geogname source="tgn">District of Columbia</geogname>
+				<geogname source="tgn">Illinois</geogname>
+				<geogname source="tgn">Indiana</geogname>
+				<geogname source="tgn">Manitoba</geogname>
+				<geogname source="tgn">Maryland</geogname>
+				<geogname source="tgn">Minnesota</geogname>
+				<geogname source="tgn">Nevada</geogname>
+				<geogname source="tgn">Ohio</geogname>
+				<geogname source="tgn">Pennsylvania</geogname>
+				<geogname source="tgn">Virginia</geogname>
+				<geogname source="tgn">Washington</geogname>
+				<geogname source="tgn">West Virginia</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Railroad Names</head>
+				<corpname>Baltimore and Ohio Railroad</corpname>
+				<corpname>British Columbia Railway</corpname>
+				<corpname>California Western Railroad</corpname>
+				<corpname>Canadian Pacific Railway</corpname>
+				<corpname>Chesapeake and Ohio Railway</corpname>
+				<corpname>Chicago and North Western Railway</corpname>
+				<corpname>Chicago, Milwaukee, St. Paul and Pacific Railroad</corpname>
+				<corpname>Cowiltz, Chehalis and Cascade Railway</corpname>
+				<corpname>Duluth, Missabe and Iron Range</corpname>
+				<corpname>Ferrocarriles del Ecuador Empresa Publica</corpname>
+				<corpname>Ferrocarril Interoceanico de Mexico</corpname>
+				<corpname>Ferrocarril Mexicano</corpname>
+				<corpname>Ferrocarriles Nacionales de Mexico</corpname>
+				<corpname>Grand Canyon Railway</corpname>
+				<corpname>Great Northern Railway </corpname>
+				<corpname>Illinois Central Railroad</corpname>
+				<corpname>McCloud River Railroad</corpname>
+				<corpname>Monon Railroad</corpname>
+				<corpname>Monongahela Railway</corpname>
+				<corpname>New York Central Railroad</corpname>
+				<corpname>New York, Chicago, and St. Louis Railroad</corpname>
+				<corpname>Norfolk and Western Railway</corpname>
+				<corpname>Norfolk Southern Railway</corpname>
+				<corpname>Northern Pacific Railway</corpname>
+				<corpname>Pennsylvania Railroad</corpname>
+				<corpname>Pickering Lumber Corporation</corpname>
+				<corpname>Pittsburgh, Chartiers and Youghiogheny Railroad</corpname>
+				<corpname>Pittsburgh and Lake Erie Railroad</corpname>
+				<corpname>Reading Company</corpname>
+				<corpname>Richmond, Fredericksburg, and Potomac Railroad</corpname>
+				<corpname>Sierra Railroad</corpname>
+				<corpname>Southern Pacific Railroad</corpname>
+				<corpname>Southern Railroad</corpname>
+				<corpname>Spokane, Portland and Seattle Railway</corpname>
+				<corpname>Union Pacific Railroad</corpname>
+				<corpname>Viacao Ferrea Centro-Oeste</corpname>
+				<corpname>Wabash Railroad</corpname>
+				<corpname>Washington Terminal Company</corpname>
+				<corpname>West Side and Cherry Valley Railway</corpname>
+				<corpname>West Side Lumber Company Railroad</corpname>
+				<corpname>Western Maryland Railway</corpname>
+				<corpname>Western Pacific Railroad</corpname>
+				<corpname>Yosemite Mountain Sugar Pine</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject source="lcsh">Photography of railroads</subject>
+				<subject source="lcsh">Railroads--Pictorial works</subject>
+			</controlaccess>
+		</controlaccess>
+		<bioghist>
+			<head>Biographical Note</head>
+			<p><persname>Harold O. ("Hal") Lewis Jr. (1931-2016)</persname> was born on <date normal="1931-07-10">July 10, 1931</date>, to <persname>Harold O. Lewis Sr.</persname> and <persname>Catherine Cardozo Lewis</persname>. His father was a history professor at Howard University who gifted Hal his first camera. Hal began photographing trains as a junior in high school in the <date normal="1945/1949">late 1940s</date>.</p>
+			<p>Hal earned his undergraduate degree in engineering from <corpname>Purdue University</corpname> in <geogname>West Lafayette, Indiana</geogname>, in <date>1953</date>. During college he worked as a <occupation>fireman</occupation> on steam locomotives and photographed the region's railroads. He married <persname>Thalia Thomas</persname> in <date>1954</date>.</p>
+			<p>Following graduation, Hal pursued a career in aeronautics. He worked as an <occupation>aeronautical engineer</occupation> for the <corpname>Boeing Company</corpname> in <geogname>Seattle, Washington</geogname>, from <date normal="1953/1958">1953-58</date>. <date normal="1958/1989">From 1958 until his retirement in 1989</date>, Hal worked for <corpname>Lockheed Martin</corpname> in <geogname>Sunnyvale, California</geogname>. He earned an MBA from <corpname>San Jose State University</corpname> while working for Lockheed.</p>
+			<p>Hal's photographs have appeared in <title render="italic">Classic Trains</title> and <title render="italic">Railfan &amp; Railroad</title> magazines.In addition to photographing railroads, Hal made railroad audio recordings. He started recording audio as a hobby in <date>1957</date>, and later sold recordings through a business he started with another recordist, <corpname>L&amp;H Railsonics</corpname>.</p>
+			<p>Following his retirement from Lockheed in <date>1989</date>, Hal volunteered with the Central Coast Chapter of the <corpname>National Railroad Historical Society</corpname> and the <corpname>Pacific Limited Group</corpname>. He received the Gerald M. Best Senior Achievement Award from the Railway &amp; Locomotive Historical Society in <date>2013</date>.</p>
+			<p>Hal passed away on <date normal="2016-08-27">August 27, 2016</date>.</p>
+		</bioghist>
+		<scopecontent>
+			<head>Scope and Content Note</head>
+			<p>The Hal Lewis collection, 1947-1998, consists of about 1,600 railroad photographs from the United States, Mexico, Canada, Ecuador, and Brazil, shot by Hal Lewis. Contents include about 750 black-and-white negatives, 800 35mm color slides, and 85 4x6 and 8.5x11 inch prints. Strengths include steam locomotives in the American mid-Antlantic, midwest, and west coast regions, such as on the New York Central Railroad, Baltimore &amp; Ohio Railway, Northern Pacific Railway, Southern Pacific Railroad, and West Side Lumber Company Railroad.</p>
+		</scopecontent>
+		<arrangement>
+			<head>Arrangement of the Collection</head>
+			<p>The collection is arranged by format, following Lewis' original order.</p>
+		</arrangement>
+		<descgrp>
+			<head>Administrative Information</head>
+			<acqinfo>
+				<head>Provenance</head>
+				<p>The collection was donated to the Center for Railroad Photography &amp; Art by Hal Lewis in 2011.</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing History</head>
+				<p>The collection was processed in 2015.</p>
+			</processinfo>
+			<userestrict>
+				<head>Access and Restrictions</head>
+				<p></p>
+				<p>For educational use only. Please contact the Center for other usage requests.</p>
+			</userestrict>
+			<accessrestrict>
+				<legalstatus>&#169; 2015, Center for Railroad Photograph &amp; Art</legalstatus>
+			</accessrestrict>
+			<prefercite>
+				<head>Credit Line</head>
+				<p>In most cases the Center owns the copyright for the photographs in our collections. The Center does ask for the proper credit (see below) to recognize the photographer and the collection.</p>
+				<p>“Photograph by [PHOTOGRAPHER NAME], collection of the Center for Railroad Photography &amp; Art, www.railphoto-art.org”</p>
+			</prefercite>
+		</descgrp>
+		<!--
+		<altformavail>
+			<head>Digitized Versions Available</head>
+			<p>Images from this collection have been digitized and are available online through <extref xlink:href="{{ODYSSEY COLLECTION LINK}}" xlink:show="new" xlink:type="simple">CRP&amp;A's digital collections</extref>.</p>
+		</altformavail>
+		!-->
+		<bibliography>
+			<head>Related CRP&amp;A Publications</head>
+			<bibref>Lothes, Scott, ed. <title render="italic">Significant Images of Railroading</title>. Bloomington: Indiana University Press, 2016.</bibref>
+			<bibref><title render="italic">Railroad Heritage</title> No. 31 (2012).</bibref>
+		</bibliography>
+		<dsc>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>1.1</unitid>
+					<unitdate certainty="circa" normal="1950">circa 1950</unitdate>
+					<physdesc>
+						<extent>59 4x6 inch black-and-white prints</extent>
+					</physdesc>
+					<container type="box" label="Box">Lewis-01</container>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Brazil</geogname>
+					<geogname>Ecuador</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+				<controlaccess>
+					<head>Railroad Names</head>
+					<corpname>Baltimore &amp; Ohio Railway</corpname>
+					<corpname>Ferrocarriles del Ecuador Empresa Publica</corpname>
+					<corpname>New York Central Railroad</corpname>
+					<corpname>Norfolk Southern Railway</corpname>
+					<corpname>Northern Pacific Railway</corpname>
+					<corpname>Pennsylvania Railroad</corpname>
+					<corpname>Viacao Ferrea Centro-Oeste</corpname>
+					<corpname>Wabash Railroad</corpname>
+					<corpname>Western Pacific Railroad</corpname>
+					<corpname>Westside Lumber Company Railway</corpname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>1.2</unitid>
+					<unitdate normal="1948/1995">1948-1995</unitdate>
+					<physdesc>
+						<extent>36 8.5 x 11 inch black-and-white prints</extent>
+					</physdesc>
+					<container type="Box" label="Box">Lewis-01</container>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>United States</geogname>
+				</controlaccess>
+				<controlaccess>
+					<head>Railroad Names</head>
+					<corpname>Baltimore &amp; Ohio Railway</corpname>
+					<corpname>New York Central Railroad</corpname>
+					<corpname>Norfolk Southern Railway</corpname>
+					<corpname>Northern Pacific Railway</corpname>
+					<corpname>Pennsylvania Railroad</corpname>
+					<corpname>Southern Pacific Railroad</corpname>
+					<corpname>Southern Railroad</corpname>
+					<corpname>Spokane, Portland &amp; Seattle Railway</corpname>
+					<corpname>Western Pacific Railroad</corpname>
+					<corpname>Westside Lumber Company Railway</corpname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>1.3</unitid>
+					<unitdate normal="1947/1998">1947-1998</unitdate>
+					<physdesc>
+						<extent>800 35mm color slides</extent>
+					</physdesc>
+					<container type="box" label="Box">Lewis-01</container>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>Mexico</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+				<controlaccess>
+					<head>Railroad Names</head>
+					<corpname>Baltimore &amp; Ohio Railway</corpname>
+					<corpname>British Columbia Railway</corpname>
+					<corpname>California Western Railroad</corpname>
+					<corpname>Canadian Pacific Railway</corpname>
+					<corpname>Chesapeake &amp; Ohio Railway</corpname>
+					<corpname>Chicago &amp; Northwestern Railwaye</corpname>
+					<corpname>Chicago, Milwaukee, St. Paul &amp; Pacific Railroad</corpname>
+					<corpname>Cowlitz, Chehalis &amp; Cascade Railway</corpname>
+					<corpname>Duluth, Missabe &amp; Iron Range Railway</corpname>
+					<corpname>Ferrocarril Interoceánico de México (Interoceanic Railway of Mexico)</corpname>
+					<corpname>Ferrocarril Mexicano (Mexican Railway)</corpname>
+					<corpname>Ferrocarriles Nacionales de México (National Railway of Mexico)</corpname>
+					<corpname>Grand Canyon Railway; Great Northern Railway</corpname>
+					<corpname>Illinois Central Railroad</corpname>
+					<corpname>McCloud River Railroad</corpname>
+					<corpname>Monon Railroad</corpname>
+					<corpname>Monongahela Railway</corpname>
+					<corpname>New York Central Railroad</corpname>
+					<corpname>New York, Chicago, &amp; St. Louis Railroad</corpname>
+					<corpname>Norfolk &amp; Western Railway</corpname>
+					<corpname>Northern Pacific Railway</corpname>
+					<corpname>Pennsylvania Railroad</corpname>
+					<corpname>Pickering Lumber Corporation Railroad</corpname>
+					<corpname>Pittsburgh &amp; Lake Erie Railroad</corpname>
+					<corpname>Pittsburgh, Chartiers &amp; Youghiogheny Railroad</corpname>
+					<corpname>Reading Company</corpname>
+					<corpname>Richmond, Fredericksburg &amp; Potomac Railroad</corpname>
+					<corpname>Sierra Railroad</corpname>
+					<corpname>Southern Pacific Railroad</corpname>
+					<corpname>Southern Railway</corpname>
+					<corpname>Spokane, Portland, &amp; Seattle Railway</corpname>
+					<corpname>Union Pacific Railroad</corpname>
+					<corpname>Wabash Railroad</corpname>
+					<corpname>West Side &amp; Cherry Valley Railway</corpname>
+					<corpname>West Side Lumber Company Railroad</corpname>
+					<corpname>Western Maryland Railway</corpname>
+					<corpname>Yosemite Mountain Sugar Pine Railroad</corpname>
+					<note>
+						<p>Railroad list is not exhaustive. Other railroads may be present in the materials.</p>
+					</note>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>1.4</unitid>
+					<unitdate normal="1947/1958">1947-1958</unitdate>
+					<physdesc>
+						<extent>750 black-and-white negatives (various sizes)</extent>
+					</physdesc>
+					<container type="box" label="Box">Lewis-01</container>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+				<controlaccess>
+					<head>Railroad Names</head>
+					<corpname>Baltimore &amp; Ohio Railway</corpname>
+					<corpname>Canadian Pacific Railway</corpname>
+					<corpname>New York Central Railroad</corpname>
+					<corpname>Northern Pacific Railway</corpname>
+					<corpname>Southern Pacific Railroad</corpname>
+					<corpname>Wabash Railroad</corpname>
+					<corpname>Washington Terminal Company</corpname>
+					<note>
+						<p>Railroad list is not exhaustive. Other railroads may be present in the materials.</p>
+					</note>
+				</controlaccess>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

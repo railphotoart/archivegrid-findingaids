@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead
+     xmlns="urn:isbn:1-931666-22-9" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+		<eadid countrycode="US" mainagencycode="WiMaCRP">US-WiMaCRP-Furler</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Donald W. Furler collection of railroad photographs</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Center for Railroad Photography &amp; Art</publisher>
+				<date normal="2019-06-19">June 19, 2019</date>
+				<address>
+					<addressline>1930 Monroe Street</addressline>
+					<addressline>Suite 301</addressline>
+					<addressline>Madison, Wisconsin 53711</addressline>
+					<addressline>Phone: 608-251-5785</addressline>
+					<addressline>Email: info@railphoto-art.org</addressline>
+					<addressline>Website: <extptr xlink:href="https://railphoto-art.org/" xlink:show="new" xlink:type="simple" />https://railphoto-art.org</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>This finding aid was encoded by Jordan Craig in 2024.</creation>
+			<langusage>Description is written in <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+			<descrules>The Center for Railroad Photography &amp; Art follows Describing Archives: A Content Standard for finding aids.</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection">
+		<did>
+			<repository>
+				<corpname source="lcnaf" normal="Center for Railroad Photography and Art" authfilenumber="no2002103517">Center for Railroad Photography &amp; Art</corpname>
+			</repository>
+			<unittitle>Donald W. Furler collection of railroad photographs</unittitle>
+			<origination label="Primary Photographer">
+				<persname>Furler, Donald Ward, 1917-1994</persname>
+			</origination>
+			<origination label="Additional Photographers">
+			A small number of photographs in the collection were not shot by Donald Ward Furler. Additional photographers include:
+				<persname>[first name unknown] Anderson</persname>
+				<persname>George MacMillan Beischer</persname>
+				<persname>[first name unknown] Ellsworth</persname>
+				<persname>W. R. Hicks</persname>
+				<persname>Walter Arndt Lucas</persname>
+				<persname>[first name unknown] Reise</persname>
+				<persname>Gordon Roth</persname>
+				<persname>[first name unknown] Smith</persname>
+				<persname>[first name unknown] Stevens</persname>
+			</origination>
+			<unitid type="accession">2017.1</unitid>
+			<physdesc>
+				<extent type="shelf" unit="feet">8.34 linear feet</extent>
+				<extent type="container">25 archival binders</extent>
+				<extent type="contents">Approximately 5,000 images</extent>, mostly <genreform source="aat">black-and-white negatives</genreform>. Negative sizes range from medium to large format, including 4x5, 5x7, and 8x10 inch negatives. 
+			</physdesc>
+			<unitdate type="inclusive" normal="1931/1956">1931-1956</unitdate>
+			<unitdate type="bulk" normal="1938/1952">1938-1952</unitdate>
+			<abstract>This collection is composed of photographic images shot by Donald Ward Furler (1917-1994). The bulk of the collection was photographed by Furler, but it also includes work he collected from other rail photographers. Images in the collection primarily depict American railroads, mainly located in New Jersey, New York, and Pennsylvania.</abstract>
+			<langmaterial>
+				<language langcode="eng" scriptcode="Latn">English</language>
+			</langmaterial>
+		</did>
+		<otherfindaid>
+			<p>The Center maintains an item-level inventory of the collection in addition to this finding aid.</p>
+		</otherfindaid>
+		<controlaccess>
+			<head>Selected Search Terms</head>
+			<controlaccess>
+				<head>Countries</head>
+				<geogname source="tgn">Canada</geogname>
+				<geogname source="tgn">United States</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>States/Provinces</head>
+				<geogname source="tgn">Alabama</geogname>
+				<geogname source="tgn">California</geogname>
+				<geogname source="tgn">Colorado</geogname>
+				<geogname source="tgn">Connecticut</geogname>
+				<geogname source="tgn">District of Columbia</geogname>
+				<geogname source="tgn">Georgia</geogname>
+				<geogname source="tgn">Illinois</geogname>
+				<geogname source="tgn">Iowa</geogname>
+				<geogname source="tgn">Kansas</geogname>
+				<geogname source="tgn">Maryland</geogname>
+				<geogname source="tgn">Massachusetts</geogname>
+				<geogname source="tgn">Minnesota</geogname>
+				<geogname source="tgn">Missouri</geogname>
+				<geogname source="tgn">Montana</geogname>
+				<geogname source="tgn">Montreal (Canada)</geogname>
+				<geogname source="tgn">New Hampshire</geogname>
+				<geogname source="tgn">New Jersey</geogname>
+				<geogname source="tgn">New York</geogname>
+				<geogname source="tgn">North Dakota</geogname>
+				<geogname source="tgn">Ohio</geogname>
+				<geogname source="tgn">Ontario (Canada)</geogname>
+				<geogname source="tgn">Pennsylvania</geogname>
+				<geogname source="tgn">Quebec (Canada)</geogname>
+				<geogname source="tgn">Saskatchewan (Canada)</geogname>
+				<geogname source="tgn">Tennessee</geogname>
+				<geogname source="tgn">Texas</geogname>
+				<geogname source="tgn">Vermont</geogname>
+				<geogname source="tgn">Virginia</geogname>
+				<geogname source="tgn">West Virginia</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Railroads</head>
+				<corpname>A. A. Morrison and Company, Inc.</corpname>
+				<corpname>Adirondack Railway</corpname>
+				<corpname>Alton and Southern Railway Company</corpname>
+				<corpname>Atchison, Topeka and Santa Fe Railway</corpname>
+				<corpname>Atlantic Coast Line Railroad</corpname>
+				<corpname>Atlantic and North Carolina Railroad</corpname>
+				<corpname>Baltimore and Ohio Railroad</corpname>
+				<corpname>Bellefonte Central Railroad</corpname>
+				<corpname>Bessemer and Lake Erie Railroad</corpname>
+				<corpname>Boston and Maine Railroad</corpname>
+				<corpname>Breese Kneeland &amp; Company</corpname>
+				<corpname>Canadian National Railway</corpname>
+				<corpname>Canadian Pacific Railway</corpname>
+				<corpname>Central Railroad of New Jersey</corpname>
+				<corpname>Central Vermont Railroad</corpname>
+				<corpname>Chestnut Ridge Railway Company</corpname>
+				<corpname>Chesapeake and Ohio Railway</corpname>
+				<corpname>Chicago, Burlington and Quincy Railroad</corpname>
+				<corpname>Chicago, Milwaukee, St. Paul and Pacific Railroad (Milwaukee Road)</corpname>
+				<corpname>Chicago and North Western Transportation Company</corpname>
+				<corpname>Chicago, Rock Island and Pacific Railroad</corpname>
+				<corpname>Chicago and Southern Railroad</corpname>
+				<corpname>Chicago and Western Indiana Railroad</corpname>
+				<corpname>Chronister Lumber Company</corpname>
+				<corpname>Cleveland, Cincinnati, Chicago and St. Louis Railway</corpname>
+				<corpname>Cornwall Railroad</corpname>
+				<corpname>Coudersport and Port Allegany Railroad</corpname>
+				<corpname>Dansville and Mount Morris Railroad</corpname>
+				<corpname>Dayton and Middletown Railroad</corpname>
+				<corpname>Delaware and Hudson Railway</corpname>
+				<corpname>Delaware, Lackawanna and Western Railroad</corpname>
+				<corpname>Denver and Rio Grande Western Railroad</corpname>
+				<corpname>Des Moines and Central Iowa Railway</corpname>
+				<corpname>Des Moines Union Railway</corpname>
+				<corpname>East Broad Top Railroad and Coal Company</corpname>
+				<corpname>Elmira, Cortland and Northern Railroad</corpname>
+				<corpname>Erie Lackawanna Railway</corpname>
+				<corpname>Erie Railroad</corpname>
+				<corpname>F. H. Clement Company</corpname>
+				<corpname>Fort Worth and Denver Railway</corpname>
+				<corpname>Franklin and Carolina Railroad (Camp Manufacturing Company)</corpname>
+				<corpname>Grand Trunk Western Railroad</corpname>
+				<corpname>Grand Trunk Railway</corpname>
+				<corpname>Gifford-Hill and Company</corpname>
+				<corpname>Harlem Transfer Company</corpname>
+				<corpname>Hershey Transit Company</corpname>
+				<corpname>Hocking Valley Railway</corpname>
+				<corpname>Huntington and Broad Top Mountain Railroad</corpname>
+				<corpname>Illinois Central Railroad</corpname>
+				<corpname>Iowa and Illinois Railway</corpname>
+				<corpname>Ironton Railroad</corpname>
+				<corpname>Keystone Wood Chemical and Lumber Corporation</corpname>
+				<corpname>Lehigh and Hudson River Railway</corpname>
+				<corpname>Lehigh and New England Railroad</corpname>
+				<corpname>Lehigh Valley Railroad</corpname>
+				<corpname>Lehigh Valley Transit Company</corpname>
+				<corpname>Liberty Historic Railway</corpname>
+				<corpname>Louisville and Nashville Railroad</corpname>
+				<corpname>Maine Central Railroad Company</corpname>
+				<corpname>Maryland and Pennsylvania Railroad</corpname>
+				<corpname>Medusa Portland Cement Company</corpname>
+				<corpname>Middletown and Unionville Railroad</corpname>
+				<corpname>Minneapolis and St. Louis Railway</corpname>
+				<corpname>Minnesota Transfer Railway</corpname>
+				<corpname>Missouri-Kansas-Texas Railroad</corpname>
+				<corpname>Missouri Pacific Railroad</corpname>
+				<corpname>Mobile and Ohio Railroad</corpname>
+				<corpname>Mocanaqua Coal Company (West End Coal Company)</corpname>
+				<corpname>Montreal and Southern Counties Railway</corpname>
+				<corpname>Morristown and Erie Railroad</corpname>
+				<corpname>Mount Washington Cog Railway</corpname>
+				<corpname>Nashville, Chattanooga and St. Louis Railway</corpname>
+				<corpname>Newburgh and South Shore Railroad</corpname>
+				<corpname>New Jersey and New York Railroad</corpname>
+				<corpname>New Jersey Southern Railroad</corpname>
+				<corpname>New York Central Railroad</corpname>
+				<corpname>New York, Chicago and St. Louis Railroad (Nickel Plate Road)</corpname>
+				<corpname>New York and Greenwood Lake Railway</corpname>
+				<corpname>New York, Lake Erie and Western Railroad</corpname>
+				<corpname>New York, New Haven and Hartford Railroad</corpname>
+				<corpname>New York, Ontario and Western Railway</corpname>
+				<corpname>New York and Pennsylvania Railroad</corpname>
+				<corpname>New York, Susquehanna and Western Railway</corpname>
+				<corpname>New York, West Shore and Buffalo Railroad</corpname>
+				<corpname>Nevada County Narrow Gauge Railroad</corpname>
+				<corpname>Norfolk and Western Railway</corpname>
+				<corpname>Norfolk Southern Railway</corpname>
+				<corpname>Northampton and Bath Railroad</corpname>
+				<corpname>Northern Pacific Railway</corpname>
+				<corpname>Northwestern Pacific Railroad</corpname>
+				<corpname>Pardee Brothers and Company Incorporated</corpname>
+				<corpname>Pennsylvania Railroad</corpname>
+				<corpname>Pere Marquette Railway</corpname>
+				<corpname>Philadelphia and Reading Coal and Iron Company</corpname>
+				<corpname>Philadelphia Suburban Transportation Company</corpname>
+				<corpname>Pittsburg, Shawmut and Northern Railroad</corpname>
+				<corpname>Pittsburg and Shawmut Railroad</corpname>
+				<corpname>Portland and Rochester Railroad</corpname>
+				<corpname>Preston Railroad</corpname>
+				<corpname>Prospect Park and Coney Island Railroad</corpname>
+				<corpname>Quebec Central Railway</corpname>
+				<corpname>Rahway Valley Railroad</corpname>
+				<corpname>Raritan River Railroad</corpname>
+				<corpname>Reading Railroad</corpname>
+				<corpname>Richmond, Fredericksburg and Potomac Railroad</corpname>
+				<corpname>Rutland Railroad</corpname>
+				<corpname>Seaboard Air Line Railroad</corpname>
+				<corpname>Southern Pacific Railroad</corpname>
+				<corpname>Southern Pacific Transportation Company</corpname>
+				<corpname>Southern Railway</corpname>
+				<corpname>St. Johnsbury and Lake Champlain Railroad</corpname>
+				<corpname>St. Louis, Iron Mountain and Southern Railway</corpname>
+				<corpname>St. Louis and O'Fallon Railway Company</corpname>
+				<corpname>St. Louis-San Francisco Railway (Frisco Lines)</corpname>
+				<corpname>St. Louis Southwestern Railway</corpname>
+				<corpname>Staten Island Railway</corpname>
+				<corpname>Staten Island Rapid Transit</corpname>
+				<corpname>Susquehanna and New York Railroad</corpname>
+				<corpname>Syracuse and Baldwinsville Railroad</corpname>
+				<corpname>Texas and Pacific Railway</corpname>
+				<corpname>Toledo, St. Louis and Western Railroad</corpname>
+				<corpname>Ulster and Delaware Railroad</corpname>
+				<corpname>Union Pacific Railroad</corpname>
+				<corpname>Universal Atlas Cement Company</corpname>
+				<corpname>Wabash Railroad</corpname>
+				<corpname>Western Maryland Railway</corpname>
+				<corpname>West Virginia Northern Railroad</corpname>
+				<corpname>Wisconsin Central Railway Company</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject source="lcsh">Photography of railroads</subject>
+				<subject source="lcsh">Railroads--Pictorial works</subject>
+			</controlaccess>
+		</controlaccess>
+		<bioghist>
+			<head>Biographical Note</head>
+			<p>Donald Ward Furler (1917-1994) was born August 10, 1917, in a house next to the Susquehanna tracks in Hawthorne, New Jersey. He grew up in nearby Glen Rock, with the Erie Railroad Main and Bergen County lines both about a block away. Furler was fascinated by steam engines and trains from an early age, and as a boy he had a basement layout of tinplate trains. The family had no automobile, and traveled frequently by train. Longer trips were usually on the Lehigh Valley Railroad but sometimes on the Central Railroad of New Jersey or Lackawanna routes. During one visit with his grandparents, Furler met his future wife, Marie Weida Furler (1920-2006). Many of their early dates were long walks by railroad tracks.</p>
+			<p>After commuting regularly on the Erie to classes at Steves Institute of Technology in Hoboken, Furler graduated as a mechanical engineer in 1938. For a short time, he was qualified and employed as an extra board operator for the Erie. He worked many of their interlocking towers on their New York Division. During <abbr expan="World War II">WWII</abbr>, he tested engines for Curtis Wright Aviation, and most of his subsequent engineering career was with Continental Can Company in Paterson, New Jersey, for thirty-five years until he retired in 1982. Continental Can was a significant railroad shipper, and he was able to use that ocnnection to arrange many cab rides.</p>
+			<p>Donald and Marie Furler were married in 1942 and purchased their home in Glen Rock, with the Erie Mainline directly across the street. Furler frequently took photographs nearby and at least watched the passing of named trains whenever he was home. One day around 1943 there was an unexpected knock at their front door. William J. "Bill" Smith extended his hand and introduced himself. Smith said he wanted to find out who was the fellow he was seeing so often by the tracks. Smith was the senior engineer on the Erie's New York Division roster. He was regularly assigned to mid-morning Train #1, the westbound Erie Limited. Smith and his wife, Roberta, became close family friends. After that, Furler usually got all the smoke he wanted for his photos when Smith was at the throttle. Smith made his last run in 1950, completing fifty-eight years of Erie service.</p>
+			<p>Furler started taking photographs of steam engines early in his teenage years. He moved to higher-quality still images in the mid-1930s with a bulky 8&#215;10 view camera, and then began using a 4&#215;5 Speed Graphic camera in the late 1930s, becoming a pioneer of railroad action photography. In 1941, he upgraded further to a 5x7 Speed Graphic. He believed the 5&#215;7 proportion helped facilitate desirable train views. Furler generally sought classic, three-quarter angle action shots. He preferred direct light on the engine and perspective from moderate elevation. He liked to see lots of smoke, as long as the engine and train were not obscured. He also tried to capture the driving rods in a down position for a better view of the drivers and running gear.</p>
+			<p>Furler photographed railroads in northern New Jersey, southern New York, and eastern Pennsylvania extensively. He began traveling farther afield as steam was disappearing. The Erie, Delaware and Hudson, Lehigh and Hudson River, Lehigh and New England, Lehigh Valley, New York Ontario and Western, Reading, and Western Maryland were some of his favorite lines. He also appreciated electrified railways and transit, especially interurbans (e.g., Lehigh Valley Transit). Furler remained interested in railroads for his entire life but could never really learn to like diesels. After the demise of regular steam, he focused on steam excursions (e.g., Reading Rambles, Norfolk &amp; Western's Steam Program, and the revived Colorado narrow gauge lines).</p>
+			<p>Furler was an early member of the Railroadians of America and the Railroad Enthusiasts, attending meetings and riding many of their steam-era fan trips. He was also an honorary lifetime member of the National Railway Historical Society (Lehigh Valley Chapter).</p>
+			<p>Most of Furler's closest friends were fellow railfans and early trackside companions. They included Walter A. "Walt" Lucas, Robert F. "Bob" Collins, C. George Krumm, George M. Beischer, Gordon R. Roth, Robert "Bob" Malinoski, John Briggs, Richard "Dick" Loane, Michael "Mike" Koch, Jim Shaughnessy, William P. "Bill" Price, George M. Hart, and David T. Mainey.</p>
+			<p>Donald and Marie Furler raised two sons and daughters, Alan, Nancy, and twins Lynn and Larry. Alan Furler would travel to chase steam locomotives with his dad. Besides trains, Furler's hobbies included garden projects, band concerts, parades, county fairs, and raising many kinds of animals. He passed away on October 22, 1994.</p>
+			<p><emph>&#8212;Adapted from biography by Alan Furler, February 2017</emph></p>
+		</bioghist>
+		<scopecontent>
+			<head>Scope and Content Note</head>
+			<p>This collection contains photographic material created by Donald Ward Furler (1917-1994). The bulk of the collection consists of approximately 5,900 black and white negatives shot primarily between 1938-1952. Earlier photographs depict railroads and steam locomotives located near Furler's or his friends' and family's various residences such as the Erie Railroad, the Central Railroad of New Jersey, and the Lehigh Valley Railroad. The Erie, Delaware and Hudson, Lehigh and Hudson River, Lehigh and New England, New York Central, New York Ontario and Western, Reading, and Western Maryland also appear frequently in the black and white negatives. Many of these images are locomotive portraits and three-quarter views. The collection also includes approximately 166 35mm color slides shot by Furler in the mid-1950s. Several of these images feature railroad operations in Quebec, Ontario, and Saskatchewan, Canada. The bulk of the collection was photographed by Furler, but is also includes work he collected from or traded with other rail photographers.</p>
+		</scopecontent>
+		<arrangement>
+			<head>Arrangement of the Collection</head>
+			<p>The collection maintains the original order of the photographs' creator, Donald Ward Furler, 1917-1994.</p>
+		</arrangement>
+		<descgrp>
+			<head>Administrative Information</head>
+			<acqinfo>
+				<head>Provenance</head>
+				<p>Alan Furler donated this collection to the Center for Railroad Photography and Art in January of 2017.</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing History</head>
+				<p>Processing of the collection began in February of 2017. CRPA  Director Scott Lothes, Archives Manager Jordan Radke, interns John Quinlan, Erin Rose, Colleen O’Keefe, and Natalie Dust have all contributed to the processing of the collection.</p>
+			</processinfo>
+			<userestrict>
+				<head>Access and Restrictions</head>
+				<p></p>
+				<p>For educational use only. Please contact the Center for other usage requests.</p>
+			</userestrict>
+			<accessrestrict>
+				<legalstatus>&#169; 2017, Center for Railroad Photograph &amp; Art</legalstatus>
+			</accessrestrict>
+			<prefercite>
+				<head>Credit Line</head>
+				<p>In most cases the Center owns the copyright for the photographs in our collections. The Center does ask for the proper credit (see below) to recognize the photographer and the collection.</p>
+				<p>“Photograph by [PHOTOGRAPHER NAME], collection of the Center for Railroad Photography &amp; Art, www.railphoto-art.org”</p>
+			</prefercite>
+		</descgrp>
+		<altformavail>
+			<head>Digitized Versions Available</head>
+			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum/0/1/1/1?rq%5B0%5D=1513&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collections portal</extref>.</p>
+		</altformavail>
+		<bibliography>
+			<head>Related CRP&amp;A Publications</head>
+			<bibref>Lothes, Scott and Alan G. Furler. <title render="italic">The Railroad Photography of Donald W. Furler</title>. Madison, Wisconsin: The Center for Railroad Photography &amp; Art, 2020.</bibref>
+		</bibliography>
+		<dsc>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Furler-01</unitid>
+					<unitdate normal="1941/1950">1941-1950</unitdate>
+					<container type="Binder">Binder 1, Pages 001-104</container>
+					<physdesc>
+						<extent>208 images</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>New Jersey</geogname>
+						<geogname>New York</geogname>
+						<geogname>Pennsylvania</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Lehigh and Hudson River Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Furler-02</unitid>
+					<unitdate normal="1941/1951">1941-1951</unitdate>
+					<container type="Binder">Binder 2, Pages 001-138</container>
+					<physdesc>
+						<extent>276 images</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>District of Columbia</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>New Hampshire</geogname>
+						<geogname>New Jersey</geogname>
+						<geogname>New York</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Vermont</geogname>
+						<geogname>Virginia</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>A. A. Morrison and Company, Inc.</corpname>
+						<corpname>Central Vermont Railroad</corpname>
+						<corpname>Chesapeake and Ohio Railway</corpname>
+						<corpname>Des Moines and Central Iowa Railway</corpname>
+						<corpname>Lehigh and New England Railroad</corpname>
+						<corpname>Maine Central Railroad Company</corpname>
+						<corpname>Mount Washington Railway</corpname>
+						<corpname>Pittsburg, Shawmut and Northern Railroad</corpname>
+						<corpname>Rahway Valley Railroad</corpname>
+						<corpname>Richmond, Fredericksburg and Potomac Railroad</corpname>
+						<corpname>Rutland Railroad</corpname>
+						<corpname>Southern Railway</corpname>
+						<corpname>St. Johnsbury and Lake Champlain Railroad</corpname>
+						<corpname>Susquehanna and New York Railroad</corpname>
+						<corpname>Western Maryland Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Furler-03</unitid>
+					<unitdate normal="1937/1946">1937-1946</unitdate>
+					<container type="Binder">Binder 3, Pages 001-118</container>
+					<physdesc>
+						<extent>457 images</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Iowa</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>New Jersey</geogname>
+						<geogname>New York</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Virginia</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Baltimore and Ohio Railroad</corpname>
+						<corpname>Central Railroad of New Jersey</corpname>
+						<corpname>Chesapeake and Ohio Railway</corpname>
+						<corpname>Chicago, Burlington and Quincy Railroad</corpname>
+						<corpname>Delaware and Hudson Railway</corpname>
+						<corpname>Delaware, Lackawanna and Western Railroad</corpname>
+						<corpname>Des Moines Union Railway</corpname>
+						<corpname>Erie Railroad</corpname>
+						<corpname>Ironton Railroad</corpname>
+						<corpname>Lehigh and Hudson River Railway</corpname>
+						<corpname>Lehigh Valley Railroad</corpname>
+						<corpname>Lehigh Valley Transit Company</corpname>
+						<corpname>Maryland and Pennsylvania Railroad</corpname>
+						<corpname>Middletown and Unionville Railroad</corpname>
+						<corpname>Missouri-Kansas-Texas Railroad</corpname>
+						<corpname>Morristown and Erie Railroad</corpname>
+						<corpname>New York Central Railroad</corpname>
+						<corpname>New York, Ontario and Western Railway</corpname>
+						<corpname>New York, Susquehanna and Western Railway</corpname>
+						<corpname>Norfolk and Western Railway</corpname>
+						<corpname>Pennsylvania Railroad</corpname>
+						<corpname>Rahway Valley Railroad</corpname>
+						<corpname>Raritan River Railroad</corpname>
+						<corpname>Reading Railroad</corpname>
+						<corpname>Richmond, Fredericksburg and Potomac Railroad</corpname>
+						<corpname>Southern Railway</corpname>
+						<corpname>Wabash Railroad</corpname>
+						<corpname>Western Maryland Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Furler-04</unitid>
+					<unitdate normal="1934/1941">1934-1941</unitdate>
+					<container type="Binder">Binder 4, Pages 001-095</container>
+					<physdesc>
+						<extent>95 images</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Missouri</geogname>
+						<geogname>New Jersey</geogname>
+						<geogname>New York</geogname>
+						<geogname>Pennsylvania</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Adirondack Railway</corpname>
+						<corpname>Breese Kneeland &amp; Company</corpname>
+						<corpname>Central Railroad of New Jersey</corpname>
+						<corpname>Coudersport and Port Allegany Railroad</corpname>
+						<corpname>Delaware, Lackawanna and Western Railroad</corpname>
+						<corpname>Erie Railroad</corpname>
+						<corpname>Ironton Railroad</corpname>
+						<corpname>Lehigh &amp; Hudson River Railroad</corpname>
+						<corpname>Lehigh Valley Railroad</corpname>
+						<corpname>Morristown and Erie Railroad</corpname>
+						<corpname>New York, Ontario and Western Railway</corpname>
+						<corpname>New York, Susquehanna and Western Railway</corpname>
+						<corpname>Northampton and Bath Railroad</corpname>
+						<corpname>Pittsburg and Shawmut Railroad</corpname>
+						<corpname>Preston Railroad</corpname>
+						<corpname>Rahway Valley Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<!-- ADD REST OF CONTAINER LIST !-->
+		</dsc>
+	</archdesc>
+</ead>

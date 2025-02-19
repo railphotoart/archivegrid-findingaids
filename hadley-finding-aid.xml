@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead
+     xmlns="urn:isbn:1-931666-22-9" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+		<eadid countrycode="US" mainagencycode="WiMaCRP">US-WiMaCRP-Hadley</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Robert A. Hadley collection of railroad photographs</titleproper>
+				<author>Erin Rose</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Center for Railroad Photography &amp; Art</publisher>
+				<date normal="2017-10-31">October 31, 2017</date>
+				<address>
+					<addressline>1930 Monroe Street</addressline>
+					<addressline>Suite 301</addressline>
+					<addressline>Madison, Wisconsin 53711</addressline>
+					<addressline>Phone: 608-251-5785</addressline>
+					<addressline>Email: info@railphoto-art.org</addressline>
+					<addressline>Website: <extptr xlink:href="https://railphoto-art.org/" xlink:show="new" xlink:type="simple" />https://railphoto-art.org</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>This finding aid was encoded by Jordan Craig in 2024.</creation>
+			<langusage>Description is written in <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+			<descrules>The Center for Railroad Photography &amp; Art follows Describing Archives: A Content Standard for finding aids.</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection">
+		<did>
+			<repository>
+				<corpname source="lcnaf" normal="Center for Railroad Photography and Art" authfilenumber="no2002103517">Center for Railroad Photography &amp; Art</corpname>
+			</repository>
+			<unittitle>Robert A. Hadley collection of railroad photographs</unittitle>
+			<origination label="Primary Photographer">
+				<persname>Hadley, Robert A.</persname>
+			</origination>
+			<origination label="Additional Photographers">
+			Several negatives were not photographed by Robert Hadley. It is common for photographers to trade photographs from their own personal collections. Robert Hadley also took photographs of images from books and other print resources that were created by other artists. Additional photographers include:
+				<persname>John C. Benson</persname>
+				<persname>Al Chione</persname>
+				<persname>George Cockle</persname>
+				<persname>Bill Deaton</persname>
+				<persname>Otto P. Dobnick</persname>
+				<persname>Dick Dorn</persname>
+				<persname>Donald Duke</persname>
+				<persname>G. L. Dunscomb</persname>
+				<persname>Ross Grenard</persname>
+				<persname>Ralph E. Hallock</persname>
+				<persname>Robert R. Harmen</persname>
+				<persname>Lewis Harris</persname>
+				<persname>Scott Hartley</persname>
+				<persname>Jim Hawkins</persname>
+				<persname>Kurt Heiden</persname>
+				<persname>Ronald C. Hill</persname>
+				<persname>Stan Kistler</persname>
+				<persname>Gordon L. Lydekson</persname>
+				<persname>William J. Miller</persname>
+				<persname>William H. Mills</persname>
+				<persname>Olson</persname>
+				<persname>Steve Patterson</persname>
+				<persname>Jack Pfeifer</persname>
+				<persname>Howard Pincus</persname>
+				<persname>Mike Repp</persname>
+				<persname>Philip A. Ronfor</persname>
+				<persname>Mike Runey</persname>
+				<persname>D. S. Richter</persname>
+				<persname>Barry E. Silver</persname>
+				<persname>F. C. Smith</persname>
+				<persname>Norm Taylor</persname>
+				<persname>Ray Whittake</persname>
+			</origination>
+			<unitid type="accession">2017.3</unitid>
+			<physdesc>
+				<extent type="shelf" unit="feet">3.3 linear feet</extent>
+				<extent type="container">10 archival binders</extent>
+				<extent type="contents">6,618 photographs</extent> including <genreform source="aat">black-and-white film</genreform> and <genreform source="aat">color negatives</genreform>.
+			</physdesc>
+			<unitdate type="inclusive" normal="1908/2006">1908-2006</unitdate>
+			<unitdate type="bulk" certainty="circa" normal="1930/1959">circa 1930-1959</unitdate>
+			<abstract>6,618 black-and-white and color negatives from Robert A. Hadley's personal collection. The majority of images were created by Hadley, but the collection also includes work from other artists that he collected throughout his lifetime. The collection focuses on American and Canadian railroads spanning from the 1910s through the early 2000s.</abstract>
+			<langmaterial>
+				<language langcode="eng" scriptcode="Latn">English</language>
+			</langmaterial>
+		</did>
+		<otherfindaid>
+			<p>The Center maintains an item-level inventory of the collection in addition to this finding aid.</p>
+		</otherfindaid>
+		<controlaccess>
+			<head>Selected Search Terms</head>
+			<controlaccess>
+				<head>Countries</head>
+				<geogname source="tgn">Canada</geogname>
+				<geogname source="tgn">Germany</geogname>
+				<geogname source="tgn">United Kingdom</geogname>
+				<geogname source="tgn">United States</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>States/Provinces</head>
+				<geogname source="tgn">Alabama</geogname>
+				<geogname source="tgn">Alberta</geogname>
+				<geogname source="tgn">Arizona</geogname>
+				<geogname source="tgn">Arkansas</geogname>
+				<geogname source="tgn">Bavaria</geogname>
+				<geogname source="tgn">British Columbia</geogname>
+				<geogname source="tgn">California</geogname>
+				<geogname source="tgn">Colorado</geogname>
+				<geogname source="tgn">Delaware</geogname>
+				<geogname source="tgn">District of Columbia</geogname>
+				<geogname source="tgn">Florida</geogname>
+				<geogname source="tgn">Georgia</geogname>
+				<geogname source="tgn">Illinois</geogname>
+				<geogname source="tgn">Indiana</geogname>
+				<geogname source="tgn">Iowa</geogname>
+				<geogname source="tgn">Kansas</geogname>
+				<geogname source="tgn">Kentucky</geogname>
+				<geogname source="tgn">Louisiana</geogname>
+				<geogname source="tgn">Maine</geogname>
+				<geogname source="tgn">Manitoba</geogname>
+				<geogname source="tgn">Maryland</geogname>
+				<geogname source="tgn">Massachusetts</geogname>
+				<geogname source="tgn">Michigan</geogname>
+				<geogname source="tgn">Minnesota</geogname>
+				<geogname source="tgn">Mississippi</geogname>
+				<geogname source="tgn">Missouri</geogname>
+				<geogname source="tgn">Montana</geogname>
+				<geogname source="tgn">Nebraska</geogname>
+				<geogname source="tgn">Nevada</geogname>
+				<geogname source="tgn">New Brunswick</geogname>
+				<geogname source="tgn">New Hampshire</geogname>
+				<geogname source="tgn">New Jersey</geogname>
+				<geogname source="tgn">New Mexico</geogname>
+				<geogname source="tgn">New York</geogname>
+				<geogname source="tgn">North Carolina</geogname>
+				<geogname source="tgn">North Dakota</geogname>
+				<geogname source="tgn">Ohio</geogname>
+				<geogname source="tgn">Oklahoma</geogname>
+				<geogname source="tgn">Ontario</geogname>
+				<geogname source="tgn">Oregon</geogname>
+				<geogname source="tgn">Pennsylvania</geogname>
+				<geogname source="tgn">Quebec</geogname>
+				<geogname source="tgn">Saskatchewan</geogname>
+				<geogname source="tgn">South Carolina</geogname>
+				<geogname source="tgn">South Dakota</geogname>
+				<geogname source="tgn">Tennessee</geogname>
+				<geogname source="tgn">Texas</geogname>
+				<geogname source="tgn">Utah</geogname>
+				<geogname source="tgn">Vermont</geogname>
+				<geogname source="tgn">Virginia</geogname>
+				<geogname source="tgn">Washington</geogname>
+				<geogname source="tgn">West Virginia</geogname>
+				<geogname source="tgn">Wisconsin</geogname>
+				<geogname source="tgn">Wyoming</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Railroads</head>
+				<corpname>Aberdeen Carolina and Western Railway</corpname>
+				<corpname>Akron, Canton, and Youngstown Railroad</corpname>
+				<corpname>Alaska Railroad</corpname>
+				<corpname>Alton Railroad</corpname>
+				<corpname>Amtrak</corpname>
+				<corpname>Ann Arbor Railroad</corpname>
+				<corpname>Arcadia &amp; Betsie River Railroad</corpname>
+				<corpname>Arkansas and Missouri Railroad</corpname>
+				<corpname>AT&amp;L Railroad</corpname>
+				<corpname>Atchison, Topeka and Santa Fe Railway</corpname>
+				<corpname>Atlantic and Gulf Railroad</corpname>
+				<corpname>Atlantic Coast Line Railroad</corpname>
+				<corpname>Atlas Model Railroad Company</corpname>
+				<corpname>Baltimore and Ohio Railroad</corpname>
+				<corpname>Bangor and Aroostook Railroad</corpname>
+				<corpname>Bay Line Railroad</corpname>
+				<corpname>Belt Railway Company of Chicago</corpname>
+				<corpname>Bessemer and Lake Erie Railroad</corpname>
+				<corpname>Black Hills Central Railroad</corpname>
+				<corpname>BNSF Railway</corpname>
+				<corpname>Boone and Scenic Valley Railroad</corpname>
+				<corpname>Boston and Albany Railroad</corpname>
+				<corpname>Boston and Maine Railroad</corpname>
+				<corpname>Brandon Railroad</corpname>
+				<corpname>British Columbia Railway</corpname>
+				<corpname>Buffalo and Pittsburgh Railroad</corpname>
+				<corpname>Burlington Northern and Santa Fe Railway</corpname>
+				<corpname>Burlington Northern Railroad</corpname>
+				<corpname>California State Railroad Museum</corpname>
+				<corpname>Calumet &amp; Hecla Railroad</corpname>
+				<corpname>Canadian National Railway</corpname>
+				<corpname>Canadian Pacific Railway</corpname>
+				<corpname>Carolina Piedmont Railroad</corpname>
+				<corpname>Central of Georgia Railway</corpname>
+				<corpname>Central Oklahoma Railfan Club</corpname>
+				<corpname>Central Railroad of New Jersey</corpname>
+				<corpname>Central Transportation</corpname>
+				<corpname>Central Vermont Railway</corpname>
+				<corpname>Chaparral Railroad</corpname>
+				<corpname>Charleston and Western Carolina Railway</corpname>
+				<corpname>Chesapeake and Ohio Railway</corpname>
+				<corpname>Chesapeake Western Railway</corpname>
+				<corpname>Chicago and Eastern Illinois Railroad</corpname>
+				<corpname>Chicago and Illinois Midland Railway</corpname>
+				<corpname>Chicago and North Western Railway</corpname>
+				<corpname>Chicago Central and Pacific Railroad</corpname>
+				<corpname>Chicago Great Western Railway</corpname>
+				<corpname>Chicago, Burlington and Quincy Railroad</corpname>
+				<corpname>Chicago, Kalamazoo and Saginaw Railroad</corpname>
+				<corpname>Chicago, Madison and Northern Railway</corpname>
+				<corpname>Chicago, Milwaukee, St. Paul and Pacific Railroad</corpname>
+				<corpname>Chicago, Missouri and Western Railway</corpname>
+				<corpname>Chicago, North Shore and Milwaukee Railroad</corpname>
+				<corpname>Chicago, Rock Island and Pacific Railroad</corpname>
+				<corpname>Chicago, St. Paul, Minneapolis and Omaha Railway</corpname>
+				<corpname>Cincinnati Union Terminal</corpname>
+				<corpname>Clinchfield Railroad</corpname>
+				<corpname>Colorado and Southern Railway</corpname>
+				<corpname>Colorado and Wyoming Railway</corpname>
+				<corpname>Columbus and Greenville Railway</corpname>
+				<corpname>Conrail</corpname>
+				<corpname>Coudersport and Port Allegany Railroad</corpname>
+				<corpname>Council Bluffs Railway</corpname>
+				<corpname>Crown Willamette Paper Company</corpname>
+				<corpname>CSX Transportation</corpname>
+				<corpname>Cumbres and Toltec Scenic Railroad</corpname>
+				<corpname>Dakota &amp; Iowa Railroad</corpname>
+				<corpname>Dardanelle and Russellville Railroad</corpname>
+				<corpname>De Queen and Eastern Railroad</corpname>
+				<corpname>Delaware and Hudson Railway</corpname>
+				<corpname>Delaware, Lackawanna and Western Railroad</corpname>
+				<corpname>Delray Connecting</corpname>
+				<corpname>Denver and Rio Grande Railroad</corpname>
+				<corpname>Denver and Rio Grande Western Railroad</corpname>
+				<corpname>Denver and Salt Lake Railway</corpname>
+				<corpname>Deseret Power Railroad</corpname>
+				<corpname>Deseret Western Railway</corpname>
+				<corpname>Detroit Terminal Railroad</corpname>
+				<corpname>Detroit, Toledo and Ironton Railroad</corpname>
+				<corpname>Detroit &amp; Mackinac Railway</corpname>
+				<corpname>Detroit and Edison</corpname>
+				<corpname>Detroit and Mackinac Railway</corpname>
+				<corpname>Detroit and Toledo Shore Line Railroad</corpname>
+				<corpname>Detroit, Caro &amp; Sandusky Railway</corpname>
+				<corpname>Detroit, Toledo and Ironton Railroad</corpname>
+				<corpname>Dodge City, Ford and Bucklin Railroad</corpname>
+				<corpname>Duluth, Missabe and Iron Range Railway</corpname>
+				<corpname>Durango &amp; Silverton Narrow Gauge Railroad</corpname>
+				<corpname>East Broad Top Railroad</corpname>
+				<corpname>East Jordan and Southern Railroad</corpname>
+				<corpname>Electro-Motive Division Leasing</corpname>
+				<corpname>Elgin, Joliet and Eastern Railway</corpname>
+				<corpname>Erie and Michigan Railroad</corpname>
+				<corpname>Erie Railroad</corpname>
+				<corpname>Essex Terminal Railway</corpname>
+				<corpname>Family Lines System</corpname>
+				<corpname>Farmrail Corporation</corpname>
+				<corpname>Ferrocarriles Nacionales de Mexico</corpname>
+				<corpname>First Union Rail</corpname>
+				<corpname>Florida East Coast Railway</corpname>
+				<corpname>Fonda, Johnstown and Gloversville Railroad</corpname>
+				<corpname>Ford Plant Railroad</corpname>
+				<corpname>Fort Smith Railroad</corpname>
+				<corpname>Fort Worth and Western Railroad</corpname>
+				<corpname>Fremont &amp; Elkhorn Valley Railroad</corpname>
+				<corpname>Gateway Western Railway</corpname>
+				<corpname>GATX Corporation</corpname>
+				<corpname>General Electric Company</corpname>
+				<corpname>General Motors</corpname>
+				<corpname>Genesee &amp; Wyoming Railroad</corpname>
+				<corpname>Georgetown Loop Railroad</corpname>
+				<corpname>Georgia and Florida Railroad</corpname>
+				<corpname>Georgia Central Railway</corpname>
+				<corpname>Glover Group</corpname>
+				<corpname>Grand Trunk Railway</corpname>
+				<corpname>Grand Trunk Western</corpname>
+				<corpname>Great Northern Railway</corpname>
+				<corpname>Green Bay and Western Railroad</corpname>
+				<corpname>Gulf, Mobile and Ohio Railroad</corpname>
+				<corpname>Helm Leasing Company</corpname>
+				<corpname>Illinois and Midland Railroad</corpname>
+				<corpname>Illinois Central Railroad</corpname>
+				<corpname>Illinois Railway Museum</corpname>
+				<corpname>llinois Terminal Railroad</corpname>
+				<corpname>Intermountain Power Project</corpname>
+				<corpname>Interstate Railroad</corpname>
+				<corpname>Iowa Interstate Railroad</corpname>
+				<corpname>Johnston's Terminal Muskogee</corpname>
+				<corpname>Kansas City Southern Railway</corpname>
+				<corpname>Kansas City Terminal Railway</corpname>
+				<corpname>Kennecott Mining Company</corpname>
+				<corpname>Kentucky and Tennessee Railway</corpname>
+				<corpname>Kiamichi Railroad</corpname>
+				<corpname>Laurinburg and Southern Railroad</corpname>
+				<corpname>Leadville, Colorado and Southern Railroad</corpname>
+				<corpname>Lehigh Valley Railroad</corpname>
+				<corpname>London and North Eastern Railway</corpname>
+				<corpname>Long Island Railroad</corpname>
+				<corpname>LORAM Maintenance of Way</corpname>
+				<corpname>Louisiana and Arkansas Railway</corpname>
+				<corpname>Louisville and Nashville Railroad</corpname>
+				<corpname>Mahoning Valley Railway</corpname>
+				<corpname>Maine Central Railroad</corpname>
+				<corpname>Manistee and North-Eastern Railroad</corpname>
+				<corpname>Manistique and Lake Superior Railroad</corpname>
+				<corpname>Manitou and Pike's Peak Railway</corpname>
+				<corpname>Maryland and Pennsylvania Railroad</corpname>
+				<corpname>Maryland Rail Commuter</corpname>
+				<corpname>Merchants Despatch Transportation Corporation</corpname>
+				<corpname>Mid-Michigan Railroad Northeast Kansas and Missouri Division</corpname>
+				<corpname>Midland Valley Railroad</corpname>
+				<corpname>Midwest Central Railroad</corpname>
+				<corpname>Mine Railroad</corpname>
+				<corpname>Minneapolis and St. Louis Railway</corpname>
+				<corpname>Minneapolis, Northfield and Southern Railway</corpname>
+				<corpname>Minneapolis, St. Paul and Sault Ste. Marie Railroad</corpname>
+				<corpname>Mississippian Railway</corpname>
+				<corpname>Missouri Pacific Railroad</corpname>
+				<corpname>Missouri-Kansas-Texas Railroad</corpname>
+				<corpname>Mobile and Ohio Railroad</corpname>
+				<corpname>Monon Railroad</corpname>
+				<corpname>Monongahela Connecting Railroad</corpname>
+				<corpname>Motive Power Industries</corpname>
+				<corpname>Mountain Diesel Transportation</corpname>
+				<corpname>Nashville, Chattanooga and St. Louis Railway</corpname>
+				<corpname>National Transportation Safety Board</corpname>
+				<corpname>Nelson and Albemarle Railroad</corpname>
+				<corpname>New York Central Railroad</corpname>
+				<corpname>New York, Chicago and St. Louis Railroad</corpname>
+				<corpname>New York, New Haven and Hartford Railroad</corpname>
+				<corpname>New York, Ontario and Western Railway</corpname>
+				<corpname>Newport Beach Limited</corpname>
+				<corpname>Nickel Plate Railroad (New York, Chicago, and St. Louis Railroad)</corpname>
+				<corpname>Norfolk and Western Railway</corpname>
+				<corpname>Norfolk Southern Railway</corpname>
+				<corpname>North American Tank Line</corpname>
+				<corpname>North Carolina and Virginia Railroad</corpname>
+				<corpname>North Shore Line</corpname>
+				<corpname>Northern Ohio and Western Railway</corpname>
+				<corpname>Northern Pacific Railway</corpname>
+				<corpname>Northwestern Pacific Railroad</corpname>
+				<corpname>Oakway Railroad</corpname>
+				<corpname>Pacific Electric Railway</corpname>
+				<corpname>Penn Central</corpname>
+				<corpname>Pennsylvania Railroad</corpname>
+				<corpname>Pere Marquette Railway</corpname>
+				<corpname>Philadelphia Baldwin Locomotive Works</corpname>
+				<corpname>Pittsburgh and West Virginia Railway</corpname>
+				<corpname>Pittsburgh, Chartiers and Youghiogheny Railway</corpname>
+				<corpname>Pontiac, Oxford and Northern Railroad</corpname>
+				<corpname>Port Huron and Detroit Railroad</corpname>
+				<corpname>Portland Terminal Railroad</corpname>
+				<corpname>Railcar America</corpname>
+				<corpname>Railcar Maintenance Company</corpname>
+				<corpname>Railserve, Inc.</corpname>
+				<corpname>Reading Railroad</corpname>
+				<corpname>Richmond, Fredericksburg and Potomac Railroad</corpname>
+				<corpname>Rio Grande Western Railway</corpname>
+				<corpname>Rutland Line</corpname>
+				<corpname>Rutland Railroad</corpname>
+				<corpname>Santa Fe Railway</corpname>
+				<corpname>Seaboard Air Line Railway</corpname>
+				<corpname>Seaboard Coast Line Railroad</corpname>
+				<corpname>Sidney and Lowe Railroad</corpname>
+				<corpname>Sisseton Milbank Railroad</corpname>
+				<corpname>Solvay Process Company</corpname>
+				<corpname>Soo Line Railroad</corpname>
+				<corpname>South Carolina Central Railroad</corpname>
+				<corpname>South Kansas and Oklahoma Railroad</corpname>
+				<corpname>South Shore Line</corpname>
+				<corpname>Southeast Kansas Railroad Company</corpname>
+				<corpname>Southeastern Michigan Transportation Authority</corpname>
+				<corpname>Southern Pacific Railroad</corpname>
+				<corpname>Southern Railway</corpname>
+				<corpname>Sperry Rail Service</corpname>
+				<corpname>Spokane, Portland and Seattle Railway</corpname>
+				<corpname>St. Clair Tunnel Company</corpname>
+				<corpname>St. Louis and Ohio River Railroad</corpname>
+				<corpname>St. Louis Southwestern Railway</corpname>
+				<corpname>St. Louis-San Francisco Railway</corpname>
+				<corpname>Stone Mountain Scenic Railroad</corpname>
+				<corpname>Terminal Railroad Association of St. Louis</corpname>
+				<corpname>Texas and Pacific Railway</corpname>
+				<corpname>Texas Northeastern Division Mid- Michigan Railroad Incorporated</corpname>
+				<corpname>Texas Northeastern Railroad</corpname>
+				<corpname>Texas State Railroad</corpname>
+				<corpname>Toledo Terminal Railroad</corpname>
+				<corpname>Toronto, Hamilton and Buffalo Railway</corpname>
+				<corpname>Trona Railway</corpname>
+				<corpname>TTX Corporation</corpname>
+				<corpname>Tuckerton Railroad</corpname>
+				<corpname>Tulsa Port of Catoosa</corpname>
+				<corpname>Union Pacific Railroad</corpname>
+				<corpname>Union Railroad Pittsburgh</corpname>
+				<corpname>United Grain Corporation</corpname>
+				<corpname>United States Air Force</corpname>
+				<corpname>United States Army</corpname>
+				<corpname>Utah Railway</corpname>
+				<corpname>Via Rail Canada</corpname>
+				<corpname>Virginia and Truckee Railroad</corpname>
+				<corpname>Virginian Railway</corpname>
+				<corpname>Wabash Railroad</corpname>
+				<corpname>Walt Disney World Railroad</corpname>
+				<corpname>Watco Companies</corpname>
+				<corpname>Western Maryland Railroad</corpname>
+				<corpname>Western Pacific Railroad</corpname>
+				<corpname>Wheeling and Lake Erie Railway</corpname>
+				<corpname>Wisconsin and Calumet Railroad</corpname>
+				<corpname>Wyandotte Terminal Railroad</corpname>
+				<corpname>Wyoming Colorado Railroad</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject source="lcsh">Photography of railroads</subject>
+				<subject source="lcsh">Railroads--Pictorial works</subject>
+			</controlaccess>
+		</controlaccess>
+		<bioghist>
+			<head>Biographical Note</head>
+			<p>{{BIO}}</p>
+		</bioghist>
+		<scopecontent>
+			<head>Scope and Content Note</head>
+			<p>{{SCOPE/CONTENT}}</p>
+		</scopecontent>
+		<arrangement>
+			<head>Arrangement of the Collection</head>
+			<p>This collection follows Robert A. Hadley's original order.</p>
+		</arrangement>
+		<descgrp>
+			<head>Administrative Information</head>
+			<acqinfo>
+				<head>Provenance</head>
+				<p>The collection was lent to the Center for Railroad Photography &amp; Art by the Apex Foundation in May 2016. The loan agreement called for the digitization of negatives, and the subsequent return of digital copies to the Apex Foundation, at which point the collection would be officially donated to the Center. Copies of the digital files were sent to the Apex Foundation in November 2017, at which point deed of gift documents were signed and the Center took ownership.</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing History</head>
+				<p>Processing began in July 2016 and was completed in October 2017. The original agreement had a one-year timeline to complete this work, and was amended in order to extend that timeline to the end of 2017. </p>
+			</processinfo>
+			<userestrict>
+				<head>Access and Restrictions</head>
+				<p></p>
+				<p>For educational use only. Please contact the Center for other usage requests.</p>
+			</userestrict>
+			<accessrestrict>
+				<legalstatus>&#169; 2017, Center for Railroad Photograph &amp; Art</legalstatus>
+			</accessrestrict>
+			<prefercite>
+				<head>Credit Line</head>
+				<p>In most cases the Center owns the copyright for the photographs in our collections. The Center does ask for the proper credit (see below) to recognize the photographer and the collection.</p>
+				<p>“Photograph by [PHOTOGRAPHER NAME], collection of the Center for Railroad Photography &amp; Art, www.railphoto-art.org”</p>
+			</prefercite>
+		</descgrp>
+		<altformavail>
+			<head>Digitized Versions Available</head>
+			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum/0/1/1/1?rq%5B0%5D=1518&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collections portal</extref>. Additionally, selected photographs are publicly available on the Center's website and social media pages.</p>
+		</altformavail>
+		<dsc>
+		<!-- CONTAINER LIST HERE !-->
+		</dsc>
+	</archdesc>
+</ead>

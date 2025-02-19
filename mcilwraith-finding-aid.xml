@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead
+     xmlns="urn:isbn:1-931666-22-9" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+		<eadid countrycode="US" mainagencycode="WiMaCRP">US-WiMaCRP-McIlwraith</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Thomas F. McIlwraith collection of railroad photographs</titleproper>
+				<author>Natalie Dust</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Center for Railroad Photography &amp; Art</publisher>
+				<date normal="2019-05-16">May 16, 2019</date>
+				<address>
+					<addressline>1930 Monroe Street</addressline>
+					<addressline>Suite 301</addressline>
+					<addressline>Madison, Wisconsin 53711</addressline>
+					<addressline>Phone: 608-251-5785</addressline>
+					<addressline>Email: info@railphoto-art.org</addressline>
+					<addressline>Website: <extptr xlink:href="https://railphoto-art.org/" xlink:show="new" xlink:type="simple" />https://railphoto-art.org</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>This finding aid was encoded by Jordan Craig in 2024.</creation>
+			<langusage>Description is written in <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+			<descrules>The Center for Railroad Photography &amp; Art follows Describing Archives: A Content Standard for finding aids.</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection">
+		<did>
+			<repository>
+				<corpname source="lcnaf" normal="Center for Railroad Photography and Art" authfilenumber="no2002103517">Center for Railroad Photography &amp; Art</corpname>
+			</repository>
+			<unittitle>Thomas F. McIlwraith collection of railroad photographs</unittitle>
+			<origination label="Photographer">
+				<persname normal="McIlwraith, Thomas F." source="lcnaf" authfilenumber="n85190708">McIlwraith, Thomas F.</persname>
+			</origination>
+			<unitid>2017.4</unitid>
+			<physdesc>
+				<extent type="container">1 binder</extent>
+				<extent type="contents">848</extent> <genreform source="aat">color slides</genreform>.
+			</physdesc>
+			<unitdate type="inclusive" normal="1957/2006">1957-2006</unitdate>
+			<abstract>Chromogenic color slides of railroads by Thomas F. McIlwraith. The collection focuses primarily on the American midwest and east coast from 1957-2006.</abstract>
+			<langmaterial>
+				<language langcode="eng" scriptcode="Latn">English</language>
+			</langmaterial>
+		</did>
+		<controlaccess>
+			<head>Selected Search Terms</head>
+			<controlaccess>
+				<head>Countries</head>
+				<geogname source="tgn">Canada</geogname>
+				<geogname source="tgn">United States</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>States/Provinces</head>
+				<geogname source="tgn">California</geogname>
+				<geogname source="tgn">Colorado</geogname>
+				<geogname source="tgn">Delaware</geogname>
+				<geogname source="tgn">Florida</geogname>
+				<geogname source="tgn">Georgia</geogname>
+				<geogname source="tgn">Idaho</geogname>
+				<geogname source="tgn">Illinois</geogname>
+				<geogname source="tgn">Indiana</geogname>
+				<geogname source="tgn">Iowa</geogname>
+				<geogname source="tgn">Maryland</geogname>
+				<geogname source="tgn">Massachusetts</geogname>
+				<geogname source="tgn">Michigan</geogname>
+				<geogname source="tgn">Minnesota</geogname>
+				<geogname source="tgn">Montana</geogname>
+				<geogname source="tgn">Nebraska</geogname>
+				<geogname source="tgn">New Hampshire</geogname>
+				<geogname source="tgn">New Jersey</geogname>
+				<geogname source="tgn">New Mexico</geogname>
+				<geogname source="tgn">New York</geogname>
+				<geogname source="tgn">Ohio</geogname>
+				<geogname source="tgn">Oregon</geogname>
+				<geogname source="tgn">Pennsylvania</geogname>
+				<geogname source="tgn">Quebec</geogname>
+				<geogname source="tgn">South Carolina</geogname>
+				<geogname source="tgn">South Dakota</geogname>
+				<geogname source="tgn">Utah</geogname>
+				<geogname source="tgn">Vermont</geogname>
+				<geogname source="tgn">Virginia</geogname>
+				<geogname source="tgn">Washington, D.C.</geogname>
+				<geogname source="tgn">Wisconsin</geogname>
+				<geogname source="tgn">Wyoming</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Railroads</head>
+				<corpname>Ahnapee and Western Railway</corpname>
+				<corpname>Akron, Canton, and Youngstown Railroad</corpname>
+				<corpname>Amtrak</corpname>
+				<corpname>Arcade and Attica Railroad</corpname>
+				<corpname>Atchison, Topeka and Santa Fe Railway</corpname>
+				<corpname>Atlantic Coast Line</corpname>
+				<corpname>Baltimore and Ohio Railroad</corpname>
+				<corpname>Baltimore and Ohio Chicago Terminal Railroad</corpname>
+				<corpname>Baltimore Transit Company</corpname>
+				<corpname>Black Hills Central Railroad</corpname>
+				<corpname>BNSF Railway</corpname>
+				<corpname>Boston and Maine Railroad</corpname>
+				<corpname>Buffalo and Pittsburgh Railroad</corpname>
+				<corpname>Burlington Northern Railroad</corpname>
+				<corpname>California Western Railroad</corpname>
+				<corpname>Canadian National Railway</corpname>
+				<corpname>Canadian Pacific Railway</corpname>
+				<corpname>Central Vermont Railway</corpname>
+				<corpname>Chesapeake and Ohio Railway</corpname>
+				<corpname>Chicago and North Western Railway</corpname>
+				<corpname>Chicago and North Western Transportation Company</corpname>
+				<corpname>Chicago, Burlington and Quincy Railroad</corpname>
+				<corpname>Chicago Great Western Railway</corpname>
+				<corpname>Chicago, Madison and Northern Railroad</corpname>
+				<corpname>Chicago, Milwaukee, St. Paul and Pacific Railroad</corpname>
+				<corpname>Chicago, Rock Island and Pacific Railroad</corpname>
+				<corpname>Chicago South Shore and South Bend Railroad</corpname>
+				<corpname>Chicago Transit Authority</corpname>
+				<corpname>Chicago and Western Indiana Railroad</corpname>
+				<corpname>Clarendon and Pittsford Railway</corpname>
+				<corpname>Colorado and Southern Railway</corpname>
+				<corpname>Conemaugh and Black Lick Railroad</corpname>
+				<corpname>Connecticut Valley Railroad</corpname>
+				<corpname>Conrail</corpname>
+				<corpname>Conway Scenic Railroad</corpname>
+				<corpname>CSX Transportation</corpname>
+				<corpname>Dansville and Mount Morris Railroad</corpname>
+				<corpname>Delaware and Hudson Railway</corpname>
+				<corpname>Delaware, Lackawanna and Western Railroad</corpname>
+				<corpname>Denver and Rio Grande Western Railroad</corpname>
+				<corpname>Detroit and Mackinac Railway</corpname>
+				<corpname>East Broad Top Railroad and Coal Company</corpname>
+				<corpname>East Troy Electric Railroad</corpname>
+				<corpname>Erie Lackawanna Railway</corpname>
+				<corpname>Finger Lakes Railway</corpname>
+				<corpname>George Benson Waterfront Streetcar Line</corpname>
+				<corpname>Georgia Pacific Railway</corpname>
+				<corpname>Genesee and Wyoming Railroad</corpname>
+				<corpname>Grand Trunk Western Railroad</corpname>
+				<corpname>Great Northern Railway</corpname>
+				<corpname>Green Bay and Western Railroad</corpname>
+				<corpname>Gulf, Mobile and Ohio Railroad</corpname>
+				<corpname>Illinois Central Railroad</corpname>
+				<corpname>Illinois Terminal Railroad</corpname>
+				<corpname>Kewaunee, Green Bay and Western Railroad</corpname>
+				<corpname>Lapeer Industrial Railroad</corpname>
+				<corpname>Lake Champlain and Moriah Railroad</corpname>
+				<corpname>Lake Superior and Ishpeming Railroad</corpname>
+				<corpname>Lehigh Valley Railroad</corpname>
+				<corpname>Maine Central Railroad Company</corpname>
+				<corpname>Maine Coast Railroad</corpname>
+				<corpname>Massachusetts Bay Transportation Authority</corpname>
+				<corpname>Metro-North Railroad</corpname>
+				<corpname>Missouri-Kansas-Texas Railroad</corpname>
+				<corpname>Missouri Pacific Railroad</corpname>
+				<corpname>Monadnock Northern Railroad</corpname>
+				<corpname>Monon Railroad</corpname>
+				<corpname>Montpelier and Barre Railroad</corpname>
+				<corpname>Morrison-Knudsen Rail</corpname>
+				<corpname>Mount Washington Cog Railway</corpname>
+				<corpname>Napierville Junction Railway</corpname>
+				<corpname>New Hampshire and Vermont Railroad</corpname>
+				<corpname>New Jersey Transit</corpname>
+				<corpname>New York Central Railroad</corpname>
+				<corpname>New York, Chicago and St. Louis Railroad</corpname>
+				<corpname>New York, Susquehanna and Western Railway</corpname>
+				<corpname>Norfolk Southern Railway</corpname>
+				<corpname>Norfolk and Western Railway</corpname>
+				<corpname>Northwestern Pacific Railroad</corpname>
+				<corpname>Oregon, Pacific and Eastern Railway</corpname>
+				<corpname>Pacific Great Eastern Railway</corpname>
+				<corpname>Penn Central Transportation Company</corpname>
+				<corpname>Pennsylvania Railroad</corpname>
+				<corpname>Philadelphia Transportation Company</corpname>
+				<corpname>Pittsburgh Railways</corpname>
+				<corpname>Providence and Worcester Railroad</corpname>
+				<corpname>Quebec North Shore and Labrador Railway</corpname>
+				<corpname>Reading Railroad</corpname>
+				<corpname>Richmond, Fredericksburg, and Potomac Railroad</corpname>
+				<corpname>San Francisco Municipal Railway</corpname>
+				<corpname>Santa Fe Southern Railway</corpname>
+				<corpname>Savannah and Atlanta Railway Company</corpname>
+				<corpname>Seaboard Coast Line Railroad</corpname>
+				<corpname>Shaker Heights Rapid Transit</corpname>
+				<corpname>Soo Line Railroad</corpname>
+				<corpname>Springfield Terminal Railway</corpname>
+				<corpname>Southeastern Pennsylvania Transportation Authority</corpname>
+				<corpname>Southern Pacific Railroad</corpname>
+				<corpname>Southern Railway</corpname>
+				<corpname>State Belt Railroad</corpname>
+				<corpname>St. Johnsbury and Lamoille County Railroad</corpname>
+				<corpname>Strasburg Rail Road</corpname>
+				<corpname>Toledo, Peoria and Western Railway</corpname>
+				<corpname>Union Pacific Railroad</corpname>
+				<corpname>Vermont Railway</corpname>
+				<corpname>VIA Rail Canada</corpname>
+				<corpname>Washington Terminal Company</corpname>
+				<corpname>Western Maryland Railway</corpname>
+				<corpname>White Pass &amp; Yukon Route Railway</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject source="lcsh">Photography of railroads</subject>
+				<subject source="lcsh">Railroads--Pictorial works</subject>
+			</controlaccess>
+		</controlaccess>
+		<bioghist>
+			<head>Biographical Note</head>
+			<p><persname>Thomas F. McIlwraith, Jr., (b. 1941)</persname> was born to <persname>Beulah</persname> and <persname>Thomas F. McIlwraith, Sr.</persname>, in <geogname>Toronto, Canada</geogname> in <date>1941</date>. The son of a prominent University of Toronto anthropologist with the same name, McIlwraith (Jr.) is the sixth Thomas McIlwraith in his family line. He attended the <corpname>University of Toronto</corpname> where he obtained a B.A. in 1963 and an M.A. in 1966.</p>
+			<p>From <date normal="1966/1970">1966 to 1970</date>, McIlwraith resided in <geogname>Madison, Wisconsin</geogname> while pursuing a Ph.D. (1973) in Historical Geography at the <corpname>University of Wisconsin</corpname>. McIlwraith and his wife, Duane, who taught French in Evansville at the time, settled on South Park Street near the main line of the Chicago and North Western Railway. McIlwraith frequently shot images of the line during his walks to campus along Badger Road (prior to the construction of the Beltline Highway). His route also passed the junction of the Milwaukee Road and the Chicago and North Western Railway on Lake Monona. McIlwraith particularly enjoyed photographing the Milwaukee Road's 'Varsity' at this spot during the UW football season.</p>
+			<p>McIlwraith's professional interests in agriculture and transport history also led him to photograph locations outside of Madison. During day trips to rural Wisconsin, McIlwraith shot the Illinois Central Railroad near Bellevue as well as the Stewart Tunnel and the Milwaukee Road at New Lisbon, Portage, Columbus, and Wisconsin Rapids. McIlwraith also seized the opportunity to shoot photographs during his semiannual travels between Madison and Toronto, frequently varying his driving route to pass by different locations. Images captured during these trips depict rail subjects in Indiana, Illinois, Michigan, and other locations in the Upper-Midwest.</p>
+			<p>In 1970, McIlwraith returned to Canada and became a faculty member at Erindale College (now the University of Toronto at Mississauga), where he served as Professor of Historical Geography until his retirement in 2005. McIlwraith's scholarship and research have focused on the cultural landscape of countryside and towns reflects the evolving culture of the province throught the two centuries. McIlwraith's expertise in the field has also led to his participation in various municipal and provincial boards concerned with heritage conservation.</p>
+			<p>In retirement, McIlwraith has been researching railroad construction and its social impact. Woven through his research career is the life of a railway enthusiast: following steam locomotives on Ontario branch lines in the 1950s, riding Peter Witt and Palouse River &amp; Coulee City Railroad streetcars in Toronto, and spending a lifetime of travelling by train throughout Canada, Great Britain, and Japan. McIlwraith and his wife, Duane, currently live in retirement in Mississauga, Ontario.</p>
+		</bioghist>
+		<scopecontent>
+			<head>Scope and Content Note</head>
+			<p>The collection has a strong focus on diesel locomotives of the American midwest and east coast with an emphasis on Wisconsin.</p>
+		</scopecontent>
+		<arrangement>
+			<head>Arrangement of the Collection</head>
+			<p>This collection is arranged in accordance with the original numerical sequence used by the photographer, Thomas F. McIlwraith. This arrangement is based on chronological order and the locations in which the photographs were taken.</p>
+		</arrangement>
+		<descgrp>
+			<head>Administrative Information</head>
+			<acqinfo>
+				<head>Provenance</head>
+				<p>The collection was donated to the Center for Railroad Photography &amp; Art by Thomas F. McIlwraith in 2017.</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing History</head>
+				<p>The collection was processed by Natalie Dust in 2018.</p>
+			</processinfo>
+			<userestrict>
+				<head>Access and Restrictions</head>
+				<p></p>
+				<p>For educational use only. Please contact the Center for other usage requests.</p>
+			</userestrict>
+			<accessrestrict>
+				<legalstatus>&#169; 2018, Center for Railroad Photograph &amp; Art</legalstatus>
+			</accessrestrict>
+			<prefercite>
+				<head>Credit Line</head>
+				<p>In most cases the Center owns the copyright for the photographs in our collections. The Center does ask for the proper credit (see below) to recognize the photographer and the collection.</p>
+				<p>“Photograph by [PHOTOGRAPHER NAME], collection of the Center for Railroad Photography &amp; Art, www.railphoto-art.org”</p>
+			</prefercite>
+		</descgrp>
+		<altformavail>
+			<head>Digitized Versions Available</head>
+			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum/0/1/1/1?rq%5B0%5D=1535&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collections portal</extref>.</p>
+		</altformavail>
+		<bibliography>
+			<head>Related CRP&amp;A Publications</head>
+			<bibref>Lothes, Scott, ed. <title render="italic">Significant Images of Railroading</title>. Bloomington: Indiana University Press, 2016.</bibref>
+		</bibliography>
+		<dsc>
+			<c01>
+				<did>
+					<unitid>McIlwraith-01</unitid>
+					<unitdate normal="1957/2006">1957-2006</unitdate>
+					<physdesc>
+						<extent>848 color slides</extent>
+					</physdesc>
+					<container type="Binder">Binder 1, Pages 001-043</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Delaware</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>Massachusetts</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Montana</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>New Hampshire</geogname>
+						<geogname>New Jersey</geogname>
+						<geogname>New Mexico</geogname>
+						<geogname>New York</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Oregon</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>South Carolina</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Utah</geogname>
+						<geogname>Vermont</geogname>
+						<geogname>Virginia</geogname>
+						<geogname>Washington, D.C.</geogname>
+						<geogname>Wisconsin</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Amtrak</corpname>
+						<corpname>Chicago and North Western Railway</corpname>
+						<corpname>Chicago, Burlington and Quincy Railroad</corpname>
+						<corpname>Chicago, Milwaukee, St. Paul and Pacific Railroad</corpname>
+						<corpname>Chicago South Shore and South Bend Railroad</corpname>
+						<corpname>Delaware and Hudson Railway</corpname>
+						<corpname>Denver &amp; Rio Grande Western Railroad</corpname>
+						<corpname>Erie Lackawanna Railway</corpname>
+						<corpname>Illinois Central Railroad</corpname>
+						<corpname>Mount Washington Cog Railway</corpname>
+						<corpname>Pennsylvania Railroad</corpname>
+						<corpname>San Francisco Municipal Railway</corpname>
+						<corpname>Southern Pacific Railroad</corpname>
+						<corpname>Union Pacific</corpname>
+						<note>
+							<p>Railroad list is not exhaustive. Other railroads may be present in the materials.</p>
+						</note>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

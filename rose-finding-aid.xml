@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead
+     xmlns="urn:isbn:1-931666-22-9" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+		<eadid countrycode="US" mainagencycode="WiMaCRP">US-WiMaCRP-Rose</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Ted Rose collection of railroad photographs</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Center for Railroad Photography &amp; Art</publisher>
+				<date normal="2024-03-20">March 20, 2024</date>
+				<address>
+					<addressline>1930 Monroe Street</addressline>
+					<addressline>Suite 301</addressline>
+					<addressline>Madison, Wisconsin 53711</addressline>
+					<addressline>Phone: 608-251-5785</addressline>
+					<addressline>Email: info@railphoto-art.org</addressline>
+					<addressline>Website: <extptr xlink:href="https://railphoto-art.org/" xlink:show="new" xlink:type="simple" />https://railphoto-art.org</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>This finding aid was encoded by Jordan Craig in 2024.</creation>
+			<langusage>Description is written in <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+			<descrules>The Center for Railroad Photography &amp; Art follows Describing Archives: A Content Standard for finding aids.</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection">
+		<did>
+			<repository>
+				<corpname source="lcnaf" normal="Center for Railroad Photography and Art" authfilenumber="no2002103517">Center for Railroad Photography &amp; Art</corpname>
+			</repository>
+			<unittitle>Ted Rose collection of railroad photographs</unittitle>
+			<origination label="Photographer">
+				<persname source="lcnaf" authfilenumber="no2017053435">Rose, Ted, 1940-2002</persname>
+			</origination>
+			<unitid>2016.2</unitid>
+			<physdesc>
+				<extent type="shelf" unit="feet">4.96 linear feet</extent>
+				<extent type="container">8 boxes</extent>
+				<extent type="contents">Over 5,000 photographs</extent> including <genreform source="aat">black-and-white film</genreform>.
+			</physdesc>
+			<unitdate certainty="circa" normal="1950/2009">circa 1950-2000</unitdate>
+			<abstract>Collection of over 5,000 railroad photographs from the United States, Canada, and Mexico by American artist Ted Rose. Contents include  4,600 black-and-white negatives, over 500 black-and-white prints, contact sheets, and a selection of materials documenting Rose's life and approach to art.</abstract>
+			<langmaterial>
+				<language langcode="eng" scriptcode="Latn">English</language>
+			</langmaterial>
+		</did>
+		<otherfindaid>
+			<p>The Center maintains an item-level inventory of the collection in addition to this finding aid.</p>
+		</otherfindaid>
+		<controlaccess>
+			<head>Selected Search Terms</head>
+			<controlaccess>
+				<head>Countries</head>
+				<geogname source="tgn">Canada</geogname>
+				<geogname source="tgn">Mexico</geogname>
+				<geogname source="tgn">United States</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Railroads</head>
+				<corpname>American Smelting and Refining Company</corpname>
+				<corpname>Atchison, Topeka &amp; Santa Fe Railway</corpname>
+				<corpname>Baltimore and Ohio Railroad</corpname>
+				<corpname>Brimstone Railroad</corpname>
+				<corpname>Canadian National Railway</corpname>
+				<corpname>Canadian Pacific Railway</corpname>
+				<corpname>Carson and Colorado Railway</corpname>
+				<corpname>Chicago and Eastern Illinois Railroad</corpname>
+				<corpname>Chicago, Burlington, and Quincy Railroad</corpname>
+				<corpname>Coahuila and Zacatecas Railway</corpname>
+				<corpname>Colorado and Southern Railroad</corpname>
+				<corpname>Denver and Rio Grande Western</corpname>
+				<corpname>Duluth and Northeastern Railroad</corpname>
+				<corpname>Duluth, Missabe &amp; Iron Range Railway</corpname>
+				<corpname>Durango and Silverton Narrow Gauge Railroad</corpname>
+				<corpname>East Tennessee and Western North Carolina Railroad</corpname>
+				<corpname>Ferrocarriles Nacionales de Mexico</corpname>
+				<corpname>Florida East Coast Railway</corpname>
+				<corpname>Graham County Railroad</corpname>
+				<corpname>Grand Trunk Railway</corpname>
+				<corpname>Grand Trunk Western Railroad</corpname>
+				<corpname>Great Northern Railway</corpname>
+				<corpname>Gulf, Mobile and Ohio Railroad</corpname>
+				<corpname>Illinois Central Railroad</corpname>
+				<corpname>Kentucky &amp; Tennessee Railway</corpname>
+				<corpname>Mississippian Railway</corpname>
+				<corpname>New York Central Railroad</corpname>
+				<corpname>Norfolk and Western Railway</corpname>
+				<corpname>Northern Pacific Railway</corpname>
+				<corpname>Pennsylvania Railroad</corpname>
+				<corpname>The Powhatan Arrow</corpname>
+				<corpname>Rio Grande Railway</corpname>
+				<corpname>Seaboard Air Line Railroad</corpname>
+				<corpname>Standard Oil Company</corpname>
+				<corpname>Union Pacific Railroad</corpname>
+				<corpname>Virginian Railway</corpname>
+				<corpname>Western Maryland Railway</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject source="lcsh">Photography of railroads</subject>
+				<subject source="lcsh">Railroads--Pictorial works</subject>
+			</controlaccess>
+		</controlaccess>
+		<bioghist>
+			<head>Biographical Note</head>
+			<p>Ted Rose (1940-2002) was born in Milwaukee, Wisconsin in 1940. He began traveling to photograph railroads as a 16-year-old. Rose earned a BA from the University of Illinois in painting and printmaking. He began graduate school at Tulane University but decided to pursue an art career outside of academia.</p>
+			<p>Rose served in the US Army from 1963-1965, including a tour in Vietnam. Following his service, Rose moved to New Mexico, settling in Chama (1965) then Santa Fe (1966). He married Polly (Towers) Rose in July 1967, and together they raised two children.</p>
+			<p>Rose operated a graphic design business in Santa Fe. He received a Lifetime Achievement Award from the Northern New Mexico Advertising Federation in 2000. One of Rose's favorite projects was designing the logos and paint scheme for the Santa Fe Southern Railway in 1993.</p>
+			<p>Rose returned to watercolor painting in the 1980s. He created full-scale paintings, calendars, and illustrated books including <title render="italic">In the Traces: Railroad Paintings of Ted Rose</title> (2000). Rose was elected to the American Watercolor Society in 1993 and the National Watercolor Society in 1999. His watercolors have been featured in exhibitions, collections, U.S. Postal Service stamps, and three Amtrak calendars (1997-1999).</p>
+			<p>Rose passed away from cancer in 2002, at age 61. <title render="italic">Railroad Heritage</title> published a special edition about his life in 2008.</p>
+		</bioghist>
+		<scopecontent>
+			<head>Scope and Content Note</head>
+			<p>The Ted Rose collection contains over 5,000 railroad photographs from the United States, Canada, and Mexico by American artist Ted Rose. COntents include 4,600 black-and-white negatives, over 500 black-and-white prints, and contact sheets, stemming from about 1956-1962. In addition, the colleciton contains a selection of materials documenting Rose's life and approach to art, including papers, books, articles, and optical media.</p>
+		</scopecontent>
+		<arrangement>
+			<head>Arrangement of the Collection</head>
+			<p>The collection is arranged by format. This arrangement was fixed by the processing archivist.</p>
+		</arrangement>
+		<descgrp>
+			<head>Administrative Information</head>
+			<acqinfo>
+				<head>Provenance</head>
+				<p>The collection was donated to the Center by Polly Rose in 2015.</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing History</head>
+				<list type="marked">
+				<item>The collection was processed in 2016-2017.</item>
+				<item>The label of CSNeg# indicates that an image is scanned from a contact sheet. Some images are repeated across the collection because they are present as negatives and in contact sheets.</item>
+				<item>Rose's original metadata generally lacked dates; images were labeled by subject or location.</item>
+				</list>
+			</processinfo>
+			<userestrict>
+				<head>Access and Restrictions</head>
+				<p></p>
+				<p>For educational use only. Please contact the Center for other usage requests.</p>
+			</userestrict>
+			<accessrestrict>
+				<legalstatus>&#169; 2014, Center for Railroad Photograph &amp; Art</legalstatus>
+			</accessrestrict>
+			<prefercite>
+				<head>Credit Line</head>
+				<p>In most cases the Center owns the copyright for the photographs in our collections. The Center does ask for the proper credit (see below) to recognize the photographer and the collection.</p>
+				<p>“Photograph by Ted Rose, collection of the Center for Railroad Photography &amp; Art, www.railphoto-art.org”</p>
+			</prefercite>
+		</descgrp>
+		<altformavail>
+			<head>Digitized Versions Available</head>
+			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum/0/1/1/1?rq%5B0%5D=1539&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collections portal</extref>.</p>
+		</altformavail>
+		<bibliography>
+			<head>Related CRP&amp;A Publications</head>
+			<bibref>Lothes, Scott, ed. <title render="italic">Significant Images of Railroading</title>. Bloomington: Indiana University Press, 2016.</bibref>
+			<bibref>"Ted Rose: The Artist's Early Photography." <title render="italic">Railroad Heritage</title> No. 19 (2008).</bibref>
+			<bibref>"Ted Rose Sees Industrial Landscape." <title render="italic">Railroad Heritage</title> No. 4 (2001).</bibref>
+		</bibliography>
+		<dsc>
+			<c01 level="recordgrp">
+				<did>
+					<unittitle>B&amp;W Negatives</unittitle>
+					<unitid>Rose_01_001_Neg001 to Rose_01_213_Neg030</unitid>
+					<physdesc>
+						<extent>3,120 black-and-white negatives</extent>
+					</physdesc>
+					<unitdate normal="1960/1961">1960-1961</unitdate>
+					<abstract>Locations: Aguascalientes, Chihuahua, Guanajuato, Mexico City, Morelos, Oaxaca, Tlaxcala, Veracruz, and Zacatecas</abstract>
+					<container type="Box" label="Box">1</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>Countries</head>
+						<geogname>Canada</geogname>
+						<geogname>Mexico</geogname>
+						<geogname>United States</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>American Smelting and Refining Company</corpname>
+						<corpname>Atchison, Topeka &amp; Santa Fe Railway</corpname>
+						<corpname>Baltimore and Ohio Railroad</corpname>
+						<corpname>Brimstone Railroad</corpname>
+						<corpname>Canadian National Railway</corpname>
+						<corpname>Canadian Pacific Railway</corpname>
+						<corpname>Chicago and Eastern Illinois Railroad</corpname>
+						<corpname>Chicago, Burlington, and Quincy Railroad</corpname>
+						<corpname>Coahuila and Zacatecas Railway</corpname>
+						<corpname>Colorado and Southern Railroad</corpname>
+						<corpname>Denver and Rio Grande Western Railroad</corpname>
+						<corpname>Duluth and Northeastern Railroad</corpname>
+						<corpname>Duluth, Missabe &amp; Iron Range Railway</corpname>
+						<corpname>East Tennessee and Western North Carolina Railroad</corpname>
+						<corpname>Ferrocarriles Nacionales de Mexico</corpname>
+						<corpname>Florida East Coast Railway</corpname>
+						<corpname>Graham County Railroad</corpname>
+						<corpname>Grand Trunk Railway</corpname>
+						<corpname>Grand Trunk Western Railroad</corpname>
+						<corpname>Great Northern Railway</corpname>
+						<corpname>Gulf, Mobile and Ohio Railroad</corpname>
+						<corpname>Illinois Central Railroad</corpname>
+						<corpname>Kentucky &amp; Tennessee Railway</corpname>
+						<corpname>Mississippian Railway</corpname>
+						<corpname>Norfolk and Western Railway</corpname>
+						<corpname>Northern Pacific Railway</corpname>
+						<corpname>Pennsylvania Railroad</corpname>
+						<corpname>The Powhatan Arrow</corpname>
+						<corpname>Seaboard Air Line Railroad</corpname>
+						<corpname>Standard Oil Company</corpname>
+						<corpname>Union Pacific Railroad</corpname>
+						<corpname>Virginian Railway</corpname>
+						<corpname>Western Maryland Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unittitle>B&amp;W Contact Sheets</unittitle>
+					<unitid>Rose_02_001_CSNeg001 to Rose_02_081_CSNeg004</unitid>
+					<physdesc>
+						<extent>1,542 contact sheets</extent>
+						<extent>35 cut images</extent>
+					</physdesc>
+					<container type="Box" label="Box">2</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>Countries</head>
+						<geogname>Canada</geogname>
+						<geogname>Mexico</geogname>
+						<geogname>United States</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Atchison, Topeka &amp; Santa Fe Railway</corpname>
+						<corpname>Baltimore and Ohio Railroad</corpname>
+						<corpname>Canadian Pacific Railway</corpname>
+						<corpname>Durango and Silverton Narrow Gauge Railroad</corpname>
+						<corpname>Ferrocarriles Nacionales de Mexico</corpname>
+						<corpname>New York Central Railroad</corpname>
+						<corpname>Rio Grande Railway</corpname>
+						<corpname>Union Pacific Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unittitle>B&amp;W Prints</unittitle>
+					<unitid>Rose_03_001 to Rose_03_199</unitid>
+					<physdesc>
+						<extent>199 black-and-white prints</extent>
+					</physdesc>
+					<container type="Box" label="Box">3</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>Countries</head>
+						<geogname>Mexico</geogname>
+						<geogname>United States</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Baltimore and Ohio Railroad</corpname>
+						<corpname>Brimstone Railroad</corpname>
+						<corpname>Canadian Pacific Railway</corpname>
+						<corpname>Carson and Colorado Railway</corpname>
+						<corpname>Chicago, Burlington, and Quincy Railroad</corpname>
+						<corpname>Duluth, Missabe and Iron Range Railway</corpname>
+						<corpname>Ferrocarriles Nacionales de Mexico</corpname>
+						<corpname>Illinois Central Railroad</corpname>
+						<corpname>New York Central Railroad</corpname>
+						<corpname>Norfolk and Western Railway</corpname>
+						<corpname>Pennsylvania Railroad</corpname>
+						<corpname>Union Pacific Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unittitle>Prints on Notecards</unittitle>
+					<physdesc>
+						<extent>450 prints</extent>
+					</physdesc>
+					<container type="Box" label="Box">4</container>
+				</did>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unittitle>Prints on Notecards</unittitle>
+					<physdesc>
+						<extent>840 prints</extent>
+					</physdesc>
+					<container type="Box" label="Box">4</container>
+					<container type="Box" label="Box">5</container>
+				</did>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unittitle>Personal Papers</unittitle>
+					<container type="Box" label="Box">6</container>
+					<container type="Box" label="Box">7</container>
+				</did>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unittitle>Oversized Objects</unittitle>
+					<container type="Box" label="Box">8</container>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

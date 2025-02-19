@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+		<eadid countrycode="US" mainagencycode="WiMaCRP">US-WiMaCRP-Bjorklund</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>John F. Bjorklund collection of railroad photographs</titleproper>
+				<author>Jordan Radke</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Center for Railroad Photography &amp; Art</publisher>
+				<date normal="2017-03-30">March 30, 2017</date>
+				<address>
+					<addressline>1930 Monroe Street</addressline>
+					<addressline>Suite 301</addressline>
+					<addressline>Madison, Wisconsin 53711</addressline>
+					<addressline>Phone: 608-251-5785</addressline>
+					<addressline>Email: info@railphoto-art.org</addressline>
+					<addressline>Website: <extptr xlink:href="https://railphoto-art.org/" xlink:show="new" xlink:type="simple"/>https://railphoto-art.org</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>This finding aid was encoded by Jordan Craig in 2025.</creation>
+			<langusage>Description is written in <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+			<descrules>The Center for Railroad Photography &amp; Art follows Describing Archives: A Content Standard for finding aids.</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection">
+		<did>
+			<repository>
+				<corpname source="lcnaf" normal="Center for Railroad Photography and Art" authfilenumber="no2002103517">Center for Railroad Photography &amp; Art</corpname>
+			</repository>
+			<unittitle>John F. Bjorklund collection of railroad photographs</unittitle>
+			<origination label="Primary Photographer">
+				<persname source="lcnaf" authfilenumber="no2015063414">Bjorklund, John F., 1939-2005</persname>
+			</origination>
+			<origination label="Additional Photographers">
+			Several color slides were not photographed by John Bjorklund; it is common for photographers to trade photographs from their own personal collections. Additional photographers include:
+				<persname>Annett, Ken</persname>
+				<persname>Babcock, H.</persname>
+				<persname>Black, Tim</persname>
+				<persname>Borg, Ken</persname>
+				<persname>Chione, Al</persname>
+				<persname>Hanifan, Ted</persname>
+				<persname>Herbert, L. N.</persname>
+				<persname>Kessler, Robert</persname>
+				<persname>Koglin, Jim</persname>
+				<persname>Lowe, Steve</persname>
+				<persname>Rasmussen, Clarence</persname>
+				<persname>Schlaepfer, G. L.</persname>
+				<persname>Thomas, Jim</persname>
+				<persname>Uhelski, John M.</persname>
+			</origination>
+			<unitid>2011.1</unitid>
+			<physdesc>
+				<extent type="shelf" unit="feet">17 linear feet</extent>
+				<extent type="container">99 metal cartons in 17 archival boxes</extent>
+				<extent type="contents">55,221</extent>
+				<genreform source="aat">color slides</genreform>.
+			</physdesc>
+			<unitdate type="inclusive" normal="1950/2004">1950–2004</unitdate>
+			<unitdate type="bulk" normal="1971/2001">1971–2001</unitdate>
+			<abstract>Color slides by John F. Bjorklund, from his collection of approximately 55,000 photographs. The collection focuses on American and Canadian railroads from the late 1960s through the early 2000s, spanning much of North America.</abstract>
+			<langmaterial>
+				<language langcode="eng" scriptcode="Latn">English</language>
+			</langmaterial>
+		</did>
+		<controlaccess>
+			<head>Selected Search Terms</head>
+			<controlaccess>
+				<head>Countries</head>
+				<geogname source="tgn">Canada</geogname>
+				<geogname source="tgn">United States</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>States/Provinces</head>
+				<geogname source="tgn">Alberta</geogname>
+				<geogname source="tgn">Arizona</geogname>
+				<geogname source="tgn">Arkansas</geogname>
+				<geogname source="tgn">British Columbia</geogname>
+				<geogname source="tgn">California</geogname>
+				<geogname source="tgn">Colorado</geogname>
+				<geogname source="tgn">Idaho</geogname>
+				<geogname source="tgn">Illinois</geogname>
+				<geogname source="tgn">Indiana</geogname>
+				<geogname source="tgn">Iowa</geogname>
+				<geogname source="tgn">Kansas</geogname>
+				<geogname source="tgn">Kentucky</geogname>
+				<geogname source="tgn">Louisiana</geogname>
+				<geogname source="tgn">Manitoba</geogname>
+				<geogname source="tgn">Michigan</geogname>
+				<geogname source="tgn">Minnesota</geogname>
+				<geogname source="tgn">Missouri</geogname>
+				<geogname source="tgn">Montana</geogname>
+				<geogname source="tgn">Nebraska</geogname>
+				<geogname source="tgn">Nevada</geogname>
+				<geogname source="tgn">New Brunswick</geogname>
+				<geogname source="tgn">New Hampshire</geogname>
+				<geogname source="tgn">New Jersey</geogname>
+				<geogname source="tgn">New Mexico</geogname>
+				<geogname source="tgn">New York</geogname>
+				<geogname source="tgn">North Carolina</geogname>
+				<geogname source="tgn">North Dakota</geogname>
+				<geogname source="tgn">Nova Scotia</geogname>
+				<geogname source="tgn">Ohio</geogname>
+				<geogname source="tgn">Oklahoma</geogname>
+				<geogname source="tgn">Ontario</geogname>
+				<geogname source="tgn">Oregon</geogname>
+				<geogname source="tgn">Pennsylvania</geogname>
+				<geogname source="tgn">Prince Edward Island</geogname>
+				<geogname source="tgn">Quebec</geogname>
+				<geogname source="tgn">Saskatchewan</geogname>
+				<geogname source="tgn">South Dakota</geogname>
+				<geogname source="tgn">Tennessee</geogname>
+				<geogname source="tgn">Texas</geogname>
+				<geogname source="tgn">Utah</geogname>
+				<geogname source="tgn">Vermont</geogname>
+				<geogname source="tgn">Virginia</geogname>
+				<geogname source="tgn">Washington</geogname>
+				<geogname source="tgn">Washington, D.C.</geogname>
+				<geogname source="tgn">West Virginia</geogname>
+				<geogname source="tgn">Wisconsin</geogname>
+				<geogname source="tgn">Wyoming</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Railroads</head>
+				<corpname>Algoma Central Railway</corpname>
+				<corpname>Ann Arbor Railroad</corpname>
+				<corpname>Atchison, Topeka, &amp; Santa Fe Railway</corpname>
+				<corpname>Arcade &amp; Attica Railroad</corpname>
+				<corpname>Arkansas &amp; Missouri Railroad</corpname>
+				<corpname>Baltimore &amp; Ohio Railroad</corpname>
+				<corpname>Bath &amp; Hammondsport Railroad</corpname>
+				<corpname>Bessemer &amp; Lake Erie Railroad</corpname>
+				<corpname>Burlington Northern Railroad</corpname>
+				<corpname>Butte, Anaconda &amp; Pacific Railway</corpname>
+				<corpname>California Western Railroad</corpname>
+				<corpname>California Zephyr</corpname>
+				<corpname>Canadian National Railway</corpname>
+				<corpname>Chicago, Burlington &amp; Quincy Railroad</corpname>
+				<corpname>Chicago &amp; Illinois Midland Railway</corpname>
+				<corpname>Chicago, Madison &amp; Northern Railway</corpname>
+				<corpname>Chicago &amp; North Western Railway</corpname>
+				<corpname>Chicago, Milwaukee, St. Paul &amp; Pacific Railroad</corpname>
+				<corpname>Chicago, Rock Island &amp; Pacific Railroad</corpname>
+				<corpname>Chicago South Shore &amp; South Bend Railroad</corpname>
+				<corpname>Columbia &amp; Cowlitz Railway</corpname>
+				<corpname>Concord &amp; Claremont Railroad</corpname>
+				<corpname>Conrail</corpname>
+				<corpname>Chesapeake &amp; Ohio Railway</corpname>
+				<corpname>Clinchfield Railroad</corpname>
+				<corpname>CSX Transportation</corpname>
+				<corpname>Delaware &amp; Hudson Railway</corpname>
+				<corpname>Denver &amp; Rio Grande Western Railroad</corpname>
+				<corpname>Detroit &amp; Mackinac Railway</corpname>
+				<corpname>Detroit, Toledo &amp; Ironton Railroad</corpname>
+				<corpname>East Broad Top Railroad</corpname>
+				<corpname>Elgin, Joliet &amp; Eastern Railway</corpname>
+				<corpname>Erie Railroad</corpname>
+				<corpname>Erie Lackawanna Railway</corpname>
+				<corpname>Escanaba &amp; Lake Superior Railroad</corpname>
+				<corpname>Essex Terminal Railway</corpname>
+				<corpname>Grand Trunk Western Railroad</corpname>
+				<corpname>Greater Cleveland Regional Transit Authority</corpname>
+				<corpname>Great Northern Railway</corpname>
+				<corpname>Green Bay &amp; Western Railroad</corpname>
+				<corpname>Green Mountain Railroad</corpname>
+				<corpname>Gulf, Mobile &amp; Ohio Railroad</corpname>
+				<corpname>Hillsdale County Railway Company</corpname>
+				<corpname>Illinois Central Gulf Railroad</corpname>
+				<corpname>Illinois Central Railroad</corpname>
+				<corpname>Illinois Terminal Railroad</corpname>
+				<corpname>Indiana &amp; Ohio Railway</corpname>
+				<corpname>Indiana Railroad Company</corpname>
+				<corpname>Kansas City Southern Railway</corpname>
+				<corpname>Keweenaw Central Railroad</corpname>
+				<corpname>Kyle Railroad</corpname>
+				<corpname>Lake Superior &amp; Ishpeming Railroad</corpname>
+				<corpname>Lehigh Valley Railroad</corpname>
+				<corpname>Long Island Rail Road</corpname>
+				<corpname>Louisiana &amp; North West Railroad</corpname>
+				<corpname>Louisville &amp; Nashville Railroad</corpname>
+				<corpname>McCloud River Railroad</corpname>
+				<corpname>Metra</corpname>
+				<corpname>Michigan Northern Railway</corpname>
+				<corpname>The Milwaukee Electric Railway &amp; Light Company</corpname>
+				<corpname>Milwaukee Road</corpname>
+				<corpname>Minneapolis, Northfield &amp; Southern</corpname>
+				<corpname>Missouri-Kansas-Texas Railroad</corpname>
+				<corpname>Missouri Pacific Railroad</corpname>
+				<corpname>Monon Railroad</corpname>
+				<corpname>New York Central Railroad</corpname>
+				<corpname>Norfolk &amp; Western Railway</corpname>
+				<corpname>Northern Pacific Railway</corpname>
+				<corpname>Ontario Northland Railway</corpname>
+				<corpname>Oregon, California &amp; Eastern Railroad</corpname>
+				<corpname>Pacific Great Eastern Railway</corpname>
+				<corpname>Penn Central Railroad</corpname>
+				<corpname>Pennsylvania Railroad</corpname>
+				<corpname>Pittsburg &amp; Shawmut Railroad</corpname>
+				<corpname>Port Huron &amp; Detroit Railroad</corpname>
+				<corpname>Prescott &amp; Northwestern Railroad</corpname>
+				<corpname>Reading Company</corpname>
+				<corpname>Richmond, Fredericksburg &amp; Potomac Railroad</corpname>
+				<corpname>Riverside &amp; Great Northern Railway</corpname>
+				<corpname>Roaring Camp &amp; Big Trees Railroad</corpname>
+				<corpname>Soo Line Railroad</corpname>
+				<corpname>South Simcoe Railway</corpname>
+				<corpname>Southern Railway</corpname>
+				<corpname>Southern Pacific Railroad</corpname>
+				<corpname>St. Louis-San Francisco Railway</corpname>
+				<corpname>Union Pacific Railroad</corpname>
+				<corpname>Temiskaming &amp; Northern Ontario Railway</corpname>
+				<corpname>Toledo, Lake Erie &amp; Western Railway</corpname>
+				<corpname>Toledo, Peoria &amp; Western Railway</corpname>
+				<corpname>Toronto Transit Commission</corpname>
+				<corpname>Tuscola &amp; Saginaw Bay Railroad</corpname>
+				<corpname>Twin City Rapid Transit Company</corpname>
+				<corpname>Western Maryland Railway</corpname>
+				<corpname>Western Pacific Railroad</corpname>
+				<corpname>Weyerhaeuser Woods Railroad</corpname>
+				<corpname>Wisconsin Central Railway</corpname>
+				<corpname>Wisconsin Central Transportation</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject source="lcsh">Photography of railroads</subject>
+				<subject source="lcsh">Railroads--Pictorial works</subject>
+			</controlaccess>
+		</controlaccess>
+		<bioghist>
+			<head>Biographical Note</head>
+			<p>John was born in Tacoma, Washington, to Walter and Barbara Bjorklund. Walter was a Northern Pacific Division Engineer whose frequent division shifts on the railroad and engineering assignments allowed John to grow up and absorb, learn, and enjoy most all of the Northern Pacific in the west. The family lived in Billings, Montana, during John's elementary school years, and later in St. Paul, Minnesota. This exposure led to John's love of the Northern Pacific, which carried on into the Burlington Northern, but John also had huge soft spots for the Milwaukee Road, Erie Lackawanna and nice big passengers trains, like the NP's flagship <emph>North Coast Limited</emph>.</p>
+			<p>Following college at the University of Minnesota in St. Paul (the <emph>real</emph> U. of M., as he would say), John served two years in the Army. He was stationed at Fort Knnox and engaged in psychological testing. Following his discharge in 1965, he returned to St. Paul and found employment at the Ford Motor Company. Ford soon transferred him to Detroit, where he would remain for the rest of his life. He retired in 1999, having ascended the corporate level as a traffic analyst. His work involved coordinating the transportation of auto body parts and finished automobiles by rail and truck. Through professional contacts, he gained many great friends on the railroads.</p>
+			<p>Besides railroad photography, John had a great love for the opera and classical music. He put together several dissolve slide shows of railroad photographs set to classical music, finding just the right ballad or instrumental for each photo sequence. More importantly, John possessed a keen memory. Friends called him a "walking hard drive" for his uncanny ability to recall details, dates, and locations.</p>
+			<p>When he started photography in the late '60s, there were numerous signal towers and stations still in use, which John often incorporated in his photos. He loved signals above all, and various types appeared frequently in his photos as both subjects and compositional elements. His favorites by far were semaphores, or "blades" as he called them. John made it a point to cover as much as he could of disappearing aspects of railroading before they disappeared.</p>
+			<p>This interest and drive allowed John to cover a great deal of the U.S. and a good portion of Canada during his photography career. Besides traveling with most of the Detroit Tuesday Night Live group (a group of Detroit-area railroad photographers who meet on Tuesday nights to share photos), John was also a frequent photography partner with Jim Thomas, Mike Schafer, Doug Harrop, Emery Gulash, Jeff Mast, Bob Kessler, and Jim Koglin. Kessler, Koglin, and Bjorklund traveled together so frequently during the last 10 years of John's life that friends dubbed them the infamous "Group of Three."</p>
+			<p>In the early 1980s, John commissioned a painting by noted railroad artist Larry Fisher. Based on one of John's photos, it shows one of his favorite locations that contained two of his favorite railroads: the Northern Pacific and the Milwaukee Road near Iris, Montana. The painting features the Milaukee Road's <emph>Olympian Hiawatha</emph> with electric "boxcab" no. E14 overtaking a westbound NP freight headed by Z6 "Challenger" steam locomotive no. 5117.</p>
+			<p>John is survived by his wife, Rose, whom he married late in life in 1990, and brothers Drew of Minneapolis and Charles of New York. He is fondly remembered by many great friends in the Detroit area, and around the U.S. and Canada.</p>
+		</bioghist>
+		<scopecontent>
+			<head>Scope and Content Note</head>
+			<p>The John Bjorklund collection includes approximately 55,000 35mm Kodak color slides. The photographs range from 1950-2004, covering American and Canadian railroads, spanning much of North America.</p>
+			<p>The collection has a strong focus on the American and Canadian railroads including an emphasis on the Midwest and Pacific Northwest with Ann Arbor Railroad, Burlington Northern Railroad, Chicago and North Western Railway, Milwaukee Road, Norfolk and Western Railway, Southern Pacific Railroad, and Union Pacific Railroad. There is also a strong emphasis on Canadian railroads with Canadian National Railway and Canadian Pacific Railway.</p>
+		</scopecontent>
+		<arrangement>
+			<head>Arrangement of the Collection</head>
+			<p>The collection is arranged by the original order of John Bjorklund, which consists of 99 metal cartons categorized alphabetically by railroad company.</p>
+		</arrangement>
+		<descgrp>
+			<head>Administrative Information</head>
+			<acqinfo>
+				<head>Provenance</head>
+				<p>John Bjorklund's widow, Mrs. Rose Bjorklund, donated his photograph collection to the Center in 2011. Center members Michael R. Valentine and Jeff Mast helped immensely with the acquisition.</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing History</head>
+				<p>Processing began in June 2015 and finished in October 2016. The finding aid was completed in December 2016.</p>
+			</processinfo>
+			<userestrict>
+				<head>Access and Restrictions</head>
+				<p/>
+				<p>For educational use only. Please contact the Center for other usage requests.</p>
+			</userestrict>
+			<accessrestrict>
+				<legalstatus>&#169; 2016, Center for Railroad Photograph &amp; Art</legalstatus>
+			</accessrestrict>
+			<prefercite>
+				<head>Credit Line</head>
+				<p>In most cases the Center owns the copyright for the photographs in our collections. The Center does ask for the proper credit (see below) to recognize the photographer and the collection.</p>
+				<p>"Photograph by [PHOTOGRAPHER NAME], collection of the Center for Railroad Photography &amp; Art, www.railphoto-art.org"</p>
+			</prefercite>
+		</descgrp>
+		<altformavail>
+			<head>Digitized Versions Available</head>
+			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum/0/1/1/1?rq%5B0%5D=1506&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collection portal</extref>.</p>
+		</altformavail>
+		<bibliography>
+			<head>Related CRP&amp;A Publications</head>
+			<bibref>Lothes, Scott, ed. <title render="italic">Significant Images of Railroading</title>. Bloomington: Indiana University Press, 2016.</bibref>
+		</bibliography>
+		<dsc>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Ann Arbor 1</unitid>
+					<physdesc>
+						<extent>535 color slides</extent>
+					</physdesc>
+					<unitdate normal="1967/1980" type="inclusive">1967–1980</unitdate>
+					<container type="Box">Box 01</container>
+					<container type="Carton">Carton 01</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Michigan</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Ann Arbor Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Ann Arbor 2</unitid>
+					<physdesc>
+						<extent>571 color slides</extent>
+					</physdesc>
+					<unitdate normal="1980/1982" type="inclusive">1980–1982</unitdate>
+					<container type="Box">Box 01</container>
+					<container type="Carton">Carton 02</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Michigan</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Ann Arbor Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Ann Arbor 3</unitid>
+					<physdesc>
+						<extent>425 color slides</extent>
+					</physdesc>
+					<unitdate normal="1972/1985" type="inclusive">1972–1985</unitdate>
+					<container type="Box">Box 01</container>
+					<container type="Carton">Carton 03</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Michigan</geogname>
+						<geogname>Ohio</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Ann Arbor Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>ATSF 1</unitid>
+					<physdesc>
+						<extent>661 color slides</extent>
+					</physdesc>
+					<unitdate normal="1967/1985" type="inclusive">1967–1985</unitdate>
+					<container type="Box">Box 01</container>
+					<container type="Carton">Carton 04</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arizona</geogname>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>New Mexico</geogname>
+						<geogname>Oklahoma</geogname>
+						<geogname>Texas</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Atchison, Topeka, &amp; Santa Fe Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>ATSF 2</unitid>
+					<physdesc>
+						<extent>677 color slides</extent>
+					</physdesc>
+					<unitdate normal="1985/1990" type="inclusive">1985–1990</unitdate>
+					<container type="Box">Box 01</container>
+					<container type="Carton">Carton 05</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arizona</geogname>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>New Mexico</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Atchison, Topeka, &amp; Santa Fe Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>ATSF 3</unitid>
+					<physdesc>
+						<extent>335 color slides</extent>
+					</physdesc>
+					<unitdate normal="1978/1995" type="inclusive">1978–1995</unitdate>
+					<container type="Box">Box 01</container>
+					<container type="Carton">Carton 06</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arizona</geogname>
+						<geogname>Idaho</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Montana</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Oregon</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Atchison, Topeka, &amp; Santa Fe Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>ATSF 2</unitid>
+					<physdesc>
+						<extent>677 color slides</extent>
+					</physdesc>
+					<unitdate normal="1985/1990" type="inclusive">1985–1990</unitdate>
+					<container type="Box">Box 01</container>
+					<container type="Carton">Carton 05</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arizona</geogname>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>New Mexico</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Atchison, Topeka, &amp; Santa Fe Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>ATSF 3</unitid>
+					<physdesc>
+						<extent>335 color slides</extent>
+					</physdesc>
+					<unitdate normal="1978/1995" type="inclusive">1978–1995</unitdate>
+					<container type="Box">Box 01</container>
+					<container type="Carton">Carton 06</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arizona</geogname>
+						<geogname>Idaho</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Montana</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Oregon</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Atchison, Topeka, &amp; Santa Fe Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>BN 1</unitid>
+					<physdesc>
+						<extent>644 color slides</extent>
+					</physdesc>
+					<unitdate normal="1970/1973" type="inclusive">1970–1973</unitdate>
+					<container type="Box">Box 02</container>
+					<container type="Carton">Carton 07</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Montana</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Texas</geogname>
+						<geogname>Washington</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Burlington Northern Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>BN 2</unitid>
+					<physdesc>
+						<extent>617 color slides</extent>
+					</physdesc>
+					<unitdate normal="1973-1975" type="inclusive">1973–1975</unitdate>
+					<container type="Box">Box 02</container>
+					<container type="Carton">Carton 08</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Idaho</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Montana</geogname>
+						<geogname>Oregon</geogname>
+						<geogname>Washington</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Burlington Northern Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>BN 3</unitid>
+					<physdesc>
+						<extent>578 color slides</extent>
+					</physdesc>
+					<unitdate normal="1975-1978" type="inclusive">1975–1978</unitdate>
+					<container type="Box">Box 02</container>
+					<container type="Carton">Carton 09</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Idaho</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Montana</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Oregon</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wisconsin</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Burlington Northern Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>BN 4</unitid>
+					<physdesc>
+						<extent>615 color slides</extent>
+					</physdesc>
+					<unitdate normal="1978/1980" type="inclusive">1978–1980</unitdate>
+					<container type="Box">Box 02</container>
+					<container type="Carton">Carton 10</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Colorado</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Montana</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Oregon</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Burlington Northern Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>BN 5</unitid>
+					<physdesc>
+						<extent>631 color slides</extent>
+					</physdesc>
+					<unitdate normal="1980" type="inclusive">1980</unitdate>
+					<container type="Box">Box 02</container>
+					<container type="Carton">Carton Carton 11</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Montana</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Burlington Northern Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>BN 6</unitid>
+					<physdesc>
+						<extent>661 color slides</extent>
+					</physdesc>
+					<unitdate normal="1980/1984" type="inclusive">1980–1984</unitdate>
+					<container type="Box">Box 02</container>
+					<container type="Carton">Carton 12</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Colorado</geogname>
+						<geogname>Florida</geogname>
+						<geogname>Idaho</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Montana</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>Oregon</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Texas</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Burlington Northern Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>BN 7</unitid>
+					<physdesc>
+						<extent>673 color slides</extent>
+					</physdesc>
+					<unitdate normal="1984/1988" type="inclusive">1984–1988</unitdate>
+					<container type="Box">Box 03</container>
+					<container type="Carton">Carton 13</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Colorado</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Montana</geogname>
+						<geogname>New Mexico</geogname>
+						<geogname>Oregon</geogname>
+						<geogname>Texas</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Burlington Northern Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>BN 8</unitid>
+					<physdesc>
+						<extent>597 color slides</extent>
+					</physdesc>
+					<unitdate normal="1952/1996" type="inclusive">1952–1996</unitdate>
+					<container type="Box">Box 03</container>
+					<container type="Carton">Carton 14</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Montana</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Oklahoma</geogname>
+						<geogname>Oregon</geogname>
+						<geogname>Texas</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wisconsin</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Burlington Northern Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>BN 9</unitid>
+					<physdesc>
+						<extent>568 color slides</extent>
+					</physdesc>
+					<unitdate normal="1997/2004" type="inclusive">1997–2004</unitdate>
+					<container type="Box">Box 03</container>
+					<container type="Carton">Carton 15</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Colorado</geogname>
+						<geogname>Idaho</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>New Mexico</geogname>
+						<geogname>Oklahoma</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Burlington Northern Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>B&amp;O 2</unitid>
+					<physdesc>
+						<extent>612 color slides</extent>
+					</physdesc>
+					<unitdate normal="1977/1984" type="inclusive">1977–1984</unitdate>
+					<container type="Box">Box 03</container>
+					<container type="Carton">Carton 16</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>New York</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>West Virginia</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Baltimore &amp; Ohio Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>B&amp;O 3</unitid>
+					<physdesc>
+						<extent>573 color slides</extent>
+					</physdesc>
+					<unitdate normal="1979/1987" type="inclusive">1979–1987</unitdate>
+					<container type="Box">Box 03</container>
+					<container type="Carton">Carton 17</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Indiana</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>West Virginia</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Baltimore &amp; Ohio Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Cal Zephyr/PGE</unitid>
+					<physdesc>
+						<extent>668 color slides</extent>
+					</physdesc>
+					<unitdate normal="1967/1985" type="inclusive">1967–1985</unitdate>
+					<container type="Box">Box 03</container>
+					<container type="Carton">Carton 18</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>British Columbia</geogname>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>New York</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Utah</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>California Zephyr</corpname>
+						<corpname>Delaware &amp; Hudson Railway</corpname>
+						<corpname>Pacific Great Eastern Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNR 1</unitid>
+					<physdesc>
+						<extent>725 color slides</extent>
+					</physdesc>
+					<unitdate normal="1967/1982" type="inclusive">1967–1982</unitdate>
+					<container type="Box">Box 04</container>
+					<container type="Carton">Carton 19</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>British Columbia</geogname>
+						<geogname>Manitoba</geogname>
+						<geogname>Nova Scotia</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>Saskatchewan</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian National Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNR 2</unitid>
+					<physdesc>
+						<extent>586 color slides</extent>
+					</physdesc>
+					<unitdate normal="1974/1980" type="inclusive">1974–1980</unitdate>
+					<container type="Box">Box 04</container>
+					<container type="Carton">Carton 20</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Manitoba</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Quebec</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian National Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNR 3</unitid>
+					<physdesc>
+						<extent>767 color slides</extent>
+					</physdesc>
+					<unitdate normal="1980/1986" type="inclusive">1980–1986</unitdate>
+					<container type="Box">Box 04</container>
+					<container type="Carton">Carton 21</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>British Columbia</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Quebec</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian National Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNR 4</unitid>
+					<physdesc>
+						<extent>638 color slides</extent>
+					</physdesc>
+					<unitdate normal="1986/1989" type="inclusive">1986–1989</unitdate>
+					<container type="Box">Box 04</container>
+					<container type="Carton">Carton 22</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Ontario</geogname>
+						<geogname>Quebec</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian National Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNR 5</unitid>
+					<physdesc>
+						<extent>630 color slides</extent>
+					</physdesc>
+					<unitdate normal="1973/2004" type="inclusive">1973–2004</unitdate>
+					<container type="Box">Box 04</container>
+					<container type="Carton">Carton 23</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian National Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNW 1</unitid>
+					<physdesc>
+						<extent>602 color slides</extent>
+					</physdesc>
+					<unitdate normal="1966/1976" type="inclusive">1966–1976</unitdate>
+					<container type="Box">Box 04</container>
+					<container type="Carton">Carton 24</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chicago &amp; North Western Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNW 2</unitid>
+					<physdesc>
+						<extent>602 color slides</extent>
+					</physdesc>
+					<unitdate normal="1976/1977" type="inclusive">1976–1977</unitdate>
+					<container type="Box">Box 05</container>
+					<container type="Carton">Carton 25</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Iowa</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>South Dakota</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chicago &amp; North Western Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNW 3</unitid>
+					<physdesc>
+						<extent>599 color slides</extent>
+					</physdesc>
+					<unitdate normal="1977/1980" type="inclusive">1977–1980</unitdate>
+					<container type="Box">Box 05</container>
+					<container type="Carton">Carton 26</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Iowa</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Wisconsin</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chicago &amp; North Western Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNW 4</unitid>
+					<physdesc>
+						<extent>630 color slides</extent>
+					</physdesc>
+					<unitdate normal="1973/1987" type="inclusive">1973–1987</unitdate>
+					<container type="Box">Box 05</container>
+					<container type="Carton">Carton 27</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Iowa</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chicago &amp; North Western Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CNW 5</unitid>
+					<physdesc>
+						<extent>538 color slides</extent>
+					</physdesc>
+					<unitdate normal="1971/2004" type="inclusive">1971–2004</unitdate>
+					<container type="Box">Box 05</container>
+					<container type="Carton">Carton 28</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Iowa</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Kentucky</geogname>
+						<geogname>Maine</geogname>
+						<geogname>Massachusetts</geogname>
+						<geogname>Michgian</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>Nova Scotia</geogname>
+						<geogname>Prince Edward Island</geogname>
+						<geogname>Quebec</geogname>
+						<geoganem>South Dakota</geoganem>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chicago &amp; North Western Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Conrail 4</unitid>
+					<physdesc>
+						<extent>636 color slides</extent>
+					</physdesc>
+					<unitdate normal="1981/1986" type="inclusive">1981–1986</unitdate>
+					<container type="Box">Box 05</container>
+					<container type="Carton">Carton 29</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>New Jersey</geogname>
+						<geogname>New York</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Pennsylvania</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Conrail</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Conrail 5</unitid>
+					<physdesc>
+						<extent>638 color slides</extent>
+					</physdesc>
+					<unitdate normal="1986/1989" type="inclusive">1986–1989</unitdate>
+					<container type="Box">Box 05</container>
+					<container type="Carton">Carton 30</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>New Jersey</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Pennsylvania</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Conrail</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Conrail 6</unitid>
+					<physdesc>
+						<extent>627 color slides</extent>
+					</physdesc>
+					<unitdate normal="1989/1999" type="inclusive">1989–1999</unitdate>
+					<container type="Box">Box 06</container>
+					<container type="Carton">Carton 31</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>New Hampshire</geogname>
+						<geogname>New York</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Washington, D.C.</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Conrail</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Conrail 7</unitid>
+					<physdesc>
+						<extent>230 color slides</extent>
+					</physdesc>
+					<unitdate normal="1979/1999" type="inclusive">1979–1999</unitdate>
+					<container type="Box">Box 06</container>
+					<container type="Carton">Carton 32</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Massachusetts</geogname>
+						<geogname>New Hampshire</geogname>
+						<geogname>New York</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Vermont</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Conrail</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>C&amp;O 1</unitid>
+					<physdesc>
+						<extent>598 color slides</extent>
+					</physdesc>
+					<unitdate normal="1966/1977" type="inclusive">1966–1977</unitdate>
+					<container type="Box">Box 06</container>
+					<container type="Carton">Carton 33</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Ontario</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chesapeake &amp; Ohio Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>C&amp;O 2</unitid>
+					<physdesc>
+						<extent>625 color slides</extent>
+					</physdesc>
+					<unitdate normal="1973/1981" type="inclusive">1973–1981</unitdate>
+					<container type="Box">Box 6</container>
+					<container type="Carton">Carton 34</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Kentucky</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Virginia</geogname>
+						<geogname>West Virginia</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chesapeake &amp; Ohio Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>C&amp;O 3 to CSXT</unitid>
+					<physdesc>
+						<extent>628 color slides</extent>
+					</physdesc>
+					<unitdate normal="1981/1988" type="inclusive">1981–1988</unitdate>
+					<container type="Box">Box 6</container>
+					<container type="Carton">Carton 35</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Kentucky</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>West Virginia</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chesapeake &amp; Ohio Railway</corpname>
+						<corpname>CSX Transportation</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CPR 1</unitid>
+					<physdesc>
+						<extent>684 color slides</extent>
+					</physdesc>
+					<unitdate normal="1967/1984" type="inclusive">1967–1984</unitdate>
+					<container type="Box">Box 6</container>
+					<container type="Carton">Carton 36</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Alberta</geogname>
+						<geogname>British Columbia</geogname>
+						<geogname>New Brunswick</geogname>
+						<geogname>Nova Scotia</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>Saskatchewan</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian Pacific Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CPR 2</unitid>
+					<physdesc>
+						<extent>527 color slides</extent>
+					</physdesc>
+					<unitdate normal="1971/1984" type="inclusive">1971–1984</unitdate>
+					<container type="Box">Box 7</container>
+					<container type="Carton">Carton 37</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Alberta</geogname>
+						<geogname>British Columbia</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Quebec</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian Pacific Railway</corpname>
+					</controlaccess> 
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CPR 3</unitid>
+					<physdesc>
+						<extent>646 color slides</extent>
+					</physdesc>
+					<unitdate normal="1983/1987" type="inclusive">1983–1987</unitdate>
+					<container type="Box">Box 7</container>
+					<container type="Carton">Carton 38</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Alberta</geogname>
+						<geogname>British Columbia</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Quebec</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian Pacific Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CPR 4/SSR</unitid>
+					<physdesc>
+						<extent>634 color slides</extent>
+					</physdesc>
+					<unitdate normal="1987/2000" type="inclusive">1987–2000</unitdate>
+					<container type="Box">Box 7</container>
+					<container type="Carton">Carton 39</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>British Columbia</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>New York</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian Pacific Railway</corpname>
+						<corpname>South Simcoe Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CPR 5</unitid>
+					<physdesc>
+						<extent>201 color slides</extent>
+					</physdesc>
+					<unitdate normal="2000/2003" type="inclusive">2000–2003</unitdate>
+					<container type="Box">Box 7</container>
+					<container type="Carton">Carton 40</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Indiana</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Canadian Pacific Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CPR/N&amp;W 7</unitid>
+					<physdesc>
+						<extent>596 color slides</extent>
+					</physdesc>
+					<unitdate normal="1972/2004" type="inclusive">1972–2004</unitdate>
+					<container type="Box">Box 7</container>
+					<container type="Carton">Carton 41</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>North Carolina</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>South Carolina</geogname>
+						<geogname>Tennessee</geogname>
+						<geogname>Virginia</geogname>
+						<geogname>West Virginia</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Clinchfield Railroad</corpname>
+						<corpname>Norfolk and Western Railway</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CSS&amp;SB 1</unitid>
+					<physdesc>
+						<extent>627 color slides</extent>
+					</physdesc>
+					<unitdate normal="1971/2001" type="inclusive">1971–2001</unitdate>
+					<container type="Box">Box 7</container>
+					<container type="Carton">Carton 42</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chicago South Shore &amp; South Bend Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CSS&amp;SB 2/GBW</unitid>
+					<physdesc>
+						<extent>331 color slides</extent>
+					</physdesc>
+					<unitdate normal="1970/2001" type="inclusive">1970–2001</unitdate>
+					<container type="Box">Box 8</container>
+					<container type="Carton">Carton 43</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Indiana</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>Chicago South Shore &amp; South Bend Railroad</corpname>
+						<corpname>Green Bay &amp; Western Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CSXT 4</unitid>
+					<physdesc>
+						<extent>630 color slides</extent>
+					</physdesc>
+					<unitdate normal="1988/1992" type="inclusive">1988–1992</unitdate>
+					<container type="Box">Box 8</container>
+					<container type="Carton">Carton 44</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Kentucky</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Tennessee</geogname>
+						<geogname>Virginia</geogname>
+						<geogname>Washington, D.C.</geogname>
+						<geogname>West Virginia</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>CSX Transportation</corpname>
+						<corpname>Richmond, Fredericksburg &amp; Potomac Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>CSXT 5</unitid>
+					<physdesc>
+						<extent>635 color slides</extent>
+					</physdesc>
+					<unitdate normal="1993/1999" type="inclusive">1993–1999</unitdate>
+					<container type="Box">Box 8</container>
+					<container type="Carton">Carton 45</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Kentucky</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Virginia</geogname>
+						<geogname>West Virginia</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroads</head>
+						<corpname>CSX Transportation</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<!-- CARTON 46 !-->
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead
+     xmlns="urn:isbn:1-931666-22-9" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd">
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+		<eadid countrycode="US" mainagencycode="WiMaCRP">US-WiMaCRP-Abbey</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Wallace W. Abbey collection of railroad photographs</titleproper>
+				<sponsor>A $10,000 preservation grant from Trains magazine facilitated the processing of the Abbey collection.</sponsor>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Center for Railroad Photography &amp; Art</publisher>
+				<date normal="2024-03-20">March 20, 2024</date>
+				<address>
+					<addressline>1930 Monroe Street</addressline>
+					<addressline>Suite 301</addressline>
+					<addressline>Madison, Wisconsin 53711</addressline>
+					<addressline>Phone: 608-251-5785</addressline>
+					<addressline>Email: info@railphoto-art.org</addressline>
+					<addressline>Website: <extptr xlink:href="https://railphoto-art.org/" xlink:show="new" xlink:type="simple" />https://railphoto-art.org</addressline>
+				</address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>This finding aid was encoded by Jordan Craig in 2024.</creation>
+			<langusage>Description is written in <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+			<descrules>The Center for Railroad Photography &amp; Art follows Describing Archives: A Content Standard for finding aids.</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection">
+		<did>
+			<repository>
+				<corpname source="lcnaf" normal="Center for Railroad Photography and Art" authfilenumber="no2002103517">Center for Railroad Photography &amp; Art</corpname>
+			</repository>
+			<unittitle>Wallace W. Abbey collection of railroad photographs</unittitle>
+			<origination label="Primary Photographer">
+				<persname source="lcnaf" authfilenumber="n84074182">Abbey, Wallace W., 1927-2014</persname>
+			</origination>
+			<unitid>2010.2</unitid>
+			<physdesc>
+				<extent type="shelf" unit="feet">9.3 linear feet</extent>
+				<extent type="container">9 archival binders</extent>
+				<extent type="contents">23,681 photgraphs</extent> including <genreform source="aat">black-and-white negatives</genreform> and <genreform source="aat">color slides</genreform>.
+			</physdesc>
+			<unitdate normal="1938/1986">1938-1986</unitdate>
+			<abstract>Collection of 20,000+ railroad photographs from the United States and Canada by Wallace W. Abbey.</abstract>
+			<langmaterial>
+				<language langcode="eng" scriptcode="Latn">English</language>
+			</langmaterial>
+		</did>
+		<controlaccess>
+			<head>Selected Search Terms</head>
+			<controlaccess>
+				<head>Countries</head>
+				<geogname source="tgn">Canada</geogname>
+				<geogname source="tgn">United States</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>States/Provinces</head>
+				<geogname source="tgn">Arizona</geogname>
+				<geogname source="tgn">California</geogname>
+				<geogname source="tgn">Colorado</geogname>
+				<geogname source="tgn">Connecticut</geogname>
+				<geogname source="tgn">Delaware</geogname>
+				<geogname source="tgn">District of Columbia</geogname>
+				<geogname source="tgn">Idaho</geogname>
+				<geogname source="tgn">Illinois</geogname>
+				<geogname source="tgn">Indiana</geogname>
+				<geogname source="tgn">Iowa</geogname>
+				<geogname source="tgn">Kansas</geogname>
+				<geogname source="tgn">Maryland</geogname>
+				<geogname source="tgn">Michigan</geogname>
+				<geogname source="tgn">Minnesota</geogname>
+				<geogname source="tgn">Missouri</geogname>
+				<geogname source="tgn">Montana</geogname>
+				<geogname source="tgn">Nebraska</geogname>
+				<geogname source="tgn">New Jersey</geogname>
+				<geogname source="tgn">New Mexico</geogname>
+				<geogname source="tgn">New York</geogname>
+				<geogname source="tgn">North Dakota</geogname>
+				<geogname source="tgn">Ohio</geogname>
+				<geogname source="tgn">Oklahoma</geogname>
+				<geogname source="tgn">Pennsylvania</geogname>
+				<geogname source="tgn">Quebec</geogname>
+				<geogname source="tgn">South Dakota</geogname>
+				<geogname source="tgn">Texas</geogname>
+				<geogname source="tgn">Utah</geogname>
+				<geogname source="tgn">Washington</geogname>
+				<geogname source="tgn">West Virginia</geogname>
+				<geogname source="tgn">Wisconsin</geogname>
+				<geogname source="tgn">Wyoming</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Railroad Names</head>
+				<corpname>Algiers, Winslow &amp; Western Railway AWW</corpname>
+				<corpname>American Car &amp; Foundry Company</corpname>
+				<corpname>American Locomotive Company</corpname>
+				<corpname>American Refrigerator Transit Company</corpname>
+				<corpname>Amtrak (National Railroad Passenger Corporation) AMTK</corpname>
+				<corpname>Atchison, Topeka &amp; Santa Fe Railway ATSF</corpname>
+				<corpname>Baltimore &amp; Ohio Railroad BO</corpname>
+				<corpname>Black Hills Central Railroad BHCR</corpname>
+				<corpname>Boston &amp; Maine Railroad BM</corpname>
+				<corpname>Burlington Northern Railroad BN</corpname>
+				<corpname>Canadian Pacific Railway</corpname>
+				<corpname>Central Railroad of New Jersey CNJ</corpname>
+				<corpname>Chesapeake &amp; Ohio Railway</corpname>
+				<corpname>Chicago &amp; Eastern Illinois Railroad CEI</corpname>
+				<corpname>Chicago &amp; Illinois Midland Railroad CIM</corpname>
+				<corpname>Chicago &amp; North Western Railway CNW</corpname>
+				<corpname>Chicago &amp; Western Indiana Railroad CWI</corpname>
+				<corpname>Chicago Great Western Railway CGW</corpname>
+				<corpname>Chicago North Shore &amp; Milwaukee Railroad CNSM</corpname>
+				<corpname>Chicago South Shore &amp; South Bend Railroad CSS</corpname>
+				<corpname>Chicago Transit Auithority CTA</corpname>
+				<corpname>Chicago Union Station Company CUST</corpname>
+				<corpname>Chicago, Aurora &amp; Elgin Railroad CAE</corpname>
+				<corpname>Chicago, Burlington &amp; Quincy Railroad CBQ</corpname>
+				<corpname>Chicago, Rock Island &amp; Pacific Railroad CRIP</corpname>
+				<corpname>Cincinnati Union Terminal</corpname>
+				<corpname>Conrail (Consolidated Rail Corporation)</corpname>
+				<corpname>Copper Range Railroad CR</corpname>
+				<corpname>Delaware &amp; Hudson Railway DH</corpname>
+				<corpname>Denver &amp; Rio Grande Western Railroad DRGW</corpname>
+				<corpname>Duluth, Missabe &amp; Iron Range Railway DMIR</corpname>
+				<corpname>Duluth, Winnipeg &amp; Pacific Railway DWP</corpname>
+				<corpname>Elgin, Joliet &amp; Eastern Railway EJE</corpname>
+				<corpname>Erie Railroad ERIE</corpname>
+				<corpname>Fairbanks, Morse &amp; Comapny FMIX</corpname>
+				<corpname>General American Refrigerator Express ART</corpname>
+				<corpname>General Electric Gompany GE</corpname>
+				<corpname>General Motors GM</corpname>
+				<corpname>Grand Trunk Western Railroad GTW</corpname>
+				<corpname>Great Northern Railway GN</corpname>
+				<corpname>Green Bay &amp; Western Railroad GBW</corpname>
+				<corpname>Gulf, Mobile &amp; Ohio Railroad GMO</corpname>
+				<corpname>Illinois Central Railroad IC</corpname>
+				<corpname>Kansas City Southern Railway KCS</corpname>
+				<corpname>Kansas City Terminal Railway KCT</corpname>
+				<corpname>Kewaunee, Green Bay &amp; Western Railroad KGBW</corpname>
+				<corpname>Lehigh &amp; Hudson River Railroad</corpname>
+				<corpname>Litchfield &amp; Madison Railway LM</corpname>
+				<corpname>Louisville &amp; Nashville Railroad LN</corpname>
+				<corpname>Midland Continental Railroad</corpname>
+				<corpname>Milwaukee Electric Railway &amp; Light Company</corpname>
+				<corpname>Milwaukee Road MILW</corpname>
+				<corpname>Minneapolis &amp; St. Louis Railway MSTL</corpname>
+				<corpname>Minneapolis, Northfield &amp; Southern Railway MNS</corpname>
+				<corpname>Missouri Pacific Railroad MP</corpname>
+				<corpname>Missouri-Kansas-Texas Railroad MKT</corpname>
+				<corpname>Monon Railroad MON</corpname>
+				<corpname>New York Central Railroad NYC</corpname>
+				<corpname>New York, New Haven &amp; Hartford Railroad NH</corpname>
+				<corpname>Nickel Plate Road NKP</corpname>
+				<corpname>Norfolk &amp; Western Railroad NW</corpname>
+				<corpname>Northern Pacific Railway NP</corpname>
+				<corpname>Penn Central PC</corpname>
+				<corpname>Pennsylvania Railroad PRR</corpname>
+				<corpname>Peoria &amp; Eastern Railway PAE</corpname>
+				<corpname>Reserve Mining Company</corpname>
+				<corpname>Ringling Brothers, Barnum &amp; Bailey Circus CNW</corpname>
+				<corpname>San Francisco Municipal Railway (SFMTA)</corpname>
+				<corpname>Soo Line Railroad SOO</corpname>
+				<corpname>Southern Pacific Railroad SP</corpname>
+				<corpname>Sperry Rail Service SRSX</corpname>
+				<corpname>St. Louis-San Francisco Railway SLSF</corpname>
+				<corpname>Transportation Test Center</corpname>
+				<corpname>Union Electric Railway UE</corpname>
+				<corpname>Union Pacific Railroad UP</corpname>
+				<corpname>Wabash Railroad WAB</corpname>
+				<corpname>Western Pacific Railroad WP</corpname>
+				<corpname>Westinghouse Electric Corporation</corpname>
+				<corpname>White Pass &amp; Yukon Route WPY</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject source="lcsh">Photography of railroads</subject>
+				<subject source="lcsh">Railroads--Pictorial works</subject>
+			</controlaccess>
+		</controlaccess>
+		<bioghist>
+			<head>Biographical Note</head>
+			<p><persname>Wallace W. Abbey (1927-2014)</persname> was born on <date normal="1927-10-30">October 30, 1927</date>, in <geogname>Evanston, Illinois</geogname>, to <persname>Wallace William Abbey II</persname> and <persname>Margaret Peal Squier Abbey</persname>. He developed a passion for trains in his youth and took his first railroad photograph in <date>1940</date>, at age 13.</p>
+			<p>Abbey graduated from the <corpname>University of Kansas</corpname> with a bachelor's degree in journalism in <date>1949</date>. Also in 1949, Abbey married <persname>Martha Jewett</persname>, a fellow journalism student.</p>
+			<p>After graduation, Abbey worked for the <corpname>Chanute Daily Tribune</corpname> and as associated <occupation>editor</occupation> at <title render="italic">Trains</title> magazine. In <date>1953</date>, after leaving <title render="italic">Trains</title>, Abbey moved into the railroad industry. He worked as associate director of public relations for the <corpname>Association of Western Railroads</corpname>, as editor of the <title render="italic">Railroad Age</title> trade magazine, and, from <date normal="1959/1970">1959 to 1970</date>, as director of public relations for the <corpname>Soo Line Railroad</corpname>. In <date>1970</date>, Abbey started an independent public relations firm based in <geogname>Minneapolis</geogname>, consulting primarily for railroads. In <date>1975</date>, Abbey served as director of corporate communications and as an advisor to the bankruptcy trustees of the <corpname>Milwaukee Road</corpname>. After leaving the Milwaukee Road in <date>1980</date>, Abbey worked as communications director for the <corpname>Trailer Train Company</corpname>. In <date>1982</date>, he worked for the <corpname>Association of American Railroads</corpname>' Transportation Technology Center in <geogname>Pueblo, Colorado</geogname>. In retirement, Abbey remained in Pueblo.</p>
+			<p>Abbey was an avid railroad photographer and historian of railroading. The <title render="italic">Trains</title> index credits Abbey with 63 articles, including fifteen in a series, "Notable Feats of Railroad Engineering." Abbey also authored several books about railroad history, including <title render="italic">The Little Jewel: Soo Line Railroad Company and the Locomotives that Make it Go</title> (1984). He received the award for lifetime achievement in photography from the <corpname>Railway &amp; Locomotive Historical Society</corpname> in <date>2003</date>.</p>
+			<p>Abbey passed away on <date normal="2014-01-03">January 3, 2014</date>, at age 86. His life and photography are discussed in <title render="italic">Wallace W. Abbey: A Life in Railroad Photography</title>, edited by <persname>Kevin P. Keefe</persname> and <persname>Scott Lothes</persname> (Indiana University Press: 2018), and articles by <persname>John Gruber</persname> in <title>Classic Trains</title>, Summer 2010, pages 36-45, and Scott Lothes in <title render="italic">Trains</title>, August 2012, pages 42-47.</p>
+		</bioghist>
+		<scopecontent>
+			<head>Scope and Content Note</head>
+			<p>The Wallace W. Abbey collection, 1938-1986, consists of 23,681 railroad photographs from the United States and Canada, shot by Wallace W. Abbey. Contents include black-and-white negatives and color slides. Abbey's images span at least 30 U.S. states and one Canadian province (Quebec).</p>
+		</scopecontent>
+		<arrangement>
+			<head>Arrangement of the Collection</head>
+			<p>The arrangement has been fixed in a chronological order. Over time, Abbey used three diferent numbering schemes; we have renumbered the images using a single scheme.</p>
+		</arrangement>
+		<descgrp>
+			<head>Administrative Information</head>
+			<acqinfo>
+				<head>Provenance</head>
+				<p>The Abbey collection came to the CRP&amp;A in 2010 as a gift from Abbey and his family.</p>
+			</acqinfo>
+			<userestrict>
+				<head>Access and Restrictions</head>
+				<p></p>
+				<p>For educational use only. Please contact the Center for other usage requests.</p>
+			</userestrict>
+			<accessrestrict>
+				<legalstatus>&#169; 2014, Center for Railroad Photograph &amp; Art</legalstatus>
+			</accessrestrict>
+			<prefercite>
+				<head>Credit Line</head>
+				<p>In most cases the Center owns the copyright for the photographs in our collections. The Center does ask for the proper credit (see below) to recognize the photographer and the collection.</p>
+				<p>“Photograph by [PHOTOGRAPHER NAME], collection of the Center for Railroad Photography &amp; Art, www.railphoto-art.org”</p>
+			</prefercite>
+		</descgrp>
+		<altformavail>
+			<head>Digitized Versions Available</head>
+			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum/0/1/1/1?rq%5B0%5D=1503&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collections portal</extref>.</p>
+		</altformavail>
+		<bibliography>
+			<head>Related CRP&amp;A Publications</head>
+			<bibref>Keefe, Kevin P., Scott Lothes, and Wallace W. Abbey. <title render="italic">Wallace W. Abbey: A Life in Railroad Photography. Railroads Past &amp; Present.</title> Bloomington, Indiana: Indiana University Press, 2018.</bibref>
+			<bibref>Lothes, Scott, ed. <title render="italic">Significant Images of Railroading</title>. Bloomington: Indiana University Press, 2016.</bibref>
+		</bibliography>
+		<dsc>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Abbey-01</unitid>
+					<unitdate normal="1940/1971">1940-1971</unitdate>
+					<physdesc>
+						<extent>1,492 black-and-white negatives</extent>
+					</physdesc>
+					<container type="Binder">Binder 1, Pages 001-155</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Colorado</geogname>
+						<geogname>Connecticut</geogname>
+						<geogname>District of Columbia</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>New Jersey</geogname>
+						<geogname>New York</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Oklahoma</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>Utah</geogname>
+						<geogname>Wisconsin</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroad Names</head>
+						<corpname>American Locomotive Company</corpname>
+						<corpname>American Refrigerator Transit Company</corpname>
+						<corpname>Atchison, Topeka &amp; Santa Fe Railroad</corpname>
+						<corpname>Baltimore &amp; Ohio Railroad</corpname>
+						<corpname>Boston &amp; Maine Railroad</corpname>
+						<corpname>Chesapeake &amp; Ohio Railway</corpname>
+						<corpname>Chicago &amp; Eastern Illinois Railroad</corpname>
+						<corpname>Chicago &amp; Illinois Midland Railroad</corpname>
+						<corpname>Chicago &amp; North Western Railroad</corpname>
+						<corpname>Chicago &amp; Western Indiana Railroad</corpname>
+						<corpname>Chicago South Shore &amp; South Bend Railroad</corpname>
+						<corpname>Chicago Union Station Company</corpname>
+						<corpname>Chicago, Aurora &amp; Elgin Railroad</corpname>
+						<corpname>Chicago, Burlington &amp; Quincy Railroad</corpname>
+						<corpname>Chicago, Milwaukee, St. Paul &amp; Pacific Railroad</corpname>
+						<corpname>Chicago, Rock Island &amp; Pacific Railroad</corpname>
+						<corpname>Cincinnati Union Terminal</corpname>
+						<corpname>Elgin, Joliet &amp; Eastern Railway</corpname>
+						<corpname>Erie Railroad</corpname>
+						<corpname>General American Refrigerator Express</corpname>
+						<corpname>General Electric</corpname>
+						<corpname>Grand Trunk Western Railroad</corpname>
+						<corpname>Great Northern Railway</corpname>
+						<corpname>Green Bay &amp; Western Railroad</corpname>
+						<corpname>Gulf, Mobile &amp; Ohio Railroad</corpname>
+						<corpname>Kewaunee, Green Bay &amp; Western Railroad</corpname>
+						<corpname>Lehigh &amp; Hudson River Railroad</corpname>
+						<corpname>Litchfield &amp; Madison Railway</corpname>
+						<corpname>Louisville &amp; Nashville Railroad</corpname>
+						<corpname>Milwaukee Electric Railway &amp; Light Company</corpname>
+						<corpname>Milwaukee &amp; Mississippi Railroad</corpname>
+						<corpname>Missouri Pacific Railroad</corpname>
+						<corpname>Missouri-Kansas-Texas Railroad</corpname>
+						<corpname>Monon Railroad</corpname>
+						<corpname>New York Central Railroad</corpname>
+						<corpname>New York, Chicago &amp; St. Louis Railroad</corpname>
+						<corpname>New York, New Haven &amp; Hartford Railroad</corpname>
+						<corpname>Northern Pacific Railway</corpname>
+						<corpname>Pennsylvania Railroad</corpname>
+						<corpname>Ringling Brothers, Barnum &amp; Bailey Circus</corpname>
+						<corpname>Soo Line Railroad</corpname>
+						<corpname>St. Louis-San Francisco Railway</corpname>
+						<corpname>Union Electric Railway</corpname>
+						<corpname>Union Pacific Railroad</corpname>
+						<corpname>Wabash Railroad</corpname>
+						<corpname>Westinghouse Electric Corporation</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Abbey-02</unitid>
+					<unitdate normal="1940/1969">1940-1969</unitdate>
+					<physdesc>
+						<extent>1,364 black-and-white negatives</extent>
+					</physdesc>
+					<container type="Binder">Binder 2, Pages 001-161</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>New York</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>Utah</geogname>
+						<geogname>Wisconsin</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroad Names</head>
+						<corpname>Atchison, Topeka &amp; Santa Fe Railroad</corpname>
+						<corpname>Baltimore &amp; Ohio Railroad</corpname>
+						<corpname>Boston &amp; Maine Railroad</corpname>
+						<corpname>Canadian Pacific Railway</corpname>
+						<corpname>Central Railroad of New Jersey</corpname>
+						<corpname>Chesapeake &amp; Ohio Railway</corpname>
+						<corpname>Chicago &amp; North Western Railroad</corpname>
+						<corpname>Chicago Great Western Railway</corpname>
+						<corpname>Chicago North Shore &amp; Milwaukee Railroad</corpname>
+						<corpname>Chicago Union Station Company</corpname>
+						<corpname>Chicago, Burlington &amp; Qunicy Railroad</corpname>
+						<corpname>Chicago, Milwaukee, St. Paul &amp; Pacific Railroad</corpname>
+						<corpname>Chicago, Rock Island &amp; Pacific Railroad</corpname>
+						<corpname>Delaware &amp; Hudson Railway</corpname>
+						<corpname>Denver &amp; Rio Grande Western Railroad</corpname>
+						<corpname>Electro-Motive Division, General Motors Corporation</corpname>
+						<corpname>Erie Railroad</corpname>
+						<corpname>Fairbanks, Morse &amp; Company</corpname>
+						<corpname>Grand Trunk Western Railroad</corpname>
+						<corpname>Gulf, Mobile &amp; Ohio Railroad</corpname>
+						<corpname>Louisville &amp; Nashville Railroad</corpname>
+						<corpname>Monon Railroad</corpname>
+						<corpname>New York Central Railroad</corpname>
+						<corpname>New York, New Haven &amp; Hartford Railroad</corpname>
+						<corpname>Norfolk &amp; Western Railroad</corpname>
+						<corpname>Pennsylvania Railroad</corpname>
+						<corpname>Peoria &amp; Eastern Railway</corpname>
+						<corpname>San Francisco Municipal Railway</corpname>
+						<corpname>Soo Line Railroad</corpname>
+						<corpname>Union Pacific Railroad</corpname>
+						<corpname>Wabash Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Abbey-03</unitid>
+					<unitdate normal="1946/1962">1946-1962</unitdate>
+					<physdesc>
+						<extent>1,558 black-and-white negatives</extent>
+					</physdesc>
+					<container type="Binder">Binder 3, Pages 001-158</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Colorado</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>Oklahoma</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>Texas</geogname>
+						<geogname>Utah</geogname>
+						<geogname>West Virginia</geogname>
+						<geogname>Wisconsin</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroad Names</head>
+						<corpname>American Locomotive Company</corpname>
+						<corpname>Atchison, Topeka &amp; Santa Fe Railroad</corpname>
+						<corpname>Baltimore &amp; Ohio Railroad</corpname>
+						<corpname>Canadian Pacific Railroad</corpname>
+						<corpname>Chesapeake &amp; Ohio Railway</corpname>
+						<corpname>Chicago &amp; North Western Railroad</corpname>
+						<corpname>Chicago Great Western Railroad</corpname>
+						<corpname>Chicago North Shore &amp; Milwaukee Railroad</corpname>
+						<corpname>Chicago South Shore &amp; South Bend Railroad</corpname>
+						<corpname>Chicago Transit Authority</corpname>
+						<corpname>Chicago Union Station Company</corpname>
+						<corpname>Chicago, Burlington &amp; Quincy Railroad</corpname>
+						<corpname>Chicago, Milwaukee, St. Paul &amp; Pacific Railroad</corpname>
+						<corpname>Chicago, Rock Island &amp; Pacific Railroad</corpname>
+						<corpname>Denver &amp; Rio Grande Western Railroad</corpname>
+						<corpname>General Electric Company</corpname>
+						<corpname>Gulf, Mobile &amp; Ohio Railroad</corpname>
+						<corpname>Illinois Central Railroad</corpname>
+						<corpname>Kansas City Southern Railway</corpname>
+						<corpname>Minneapolis &amp; St. Louis Railway</corpname>
+						<corpname>Missouri Pacific Railroad</corpname>
+						<corpname>Missouri-Kansas-Texas Railroad</corpname>
+						<corpname>Monon Railroad</corpname>
+						<corpname>New York Central Railroad</corpname>
+						<corpname>New York, New Haven &amp; Hartford Railroad</corpname>
+						<corpname>Pennsylvania Railroad</corpname>
+						<corpname>San Francisco Municipal Railway</corpname>
+						<corpname>Soo Line Railroad</corpname>
+						<corpname>Southern Pacific Railroad</corpname>
+						<corpname>Sperry Rail Service</corpname>
+						<corpname>St. Louis-San Francisco Railway</corpname>
+						<corpname>St. Paul Union Depot Company</corpname>
+						<corpname>Union Pacific Railroad</corpname>
+						<corpname>Wabash Railroad</corpname>
+						<corpname>Western Pacific Railroad</corpname>
+						<corpname>Western Railroad Supply Company</corpname>
+						<corpname>White Pass &amp; Yukon Route</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Abbey-04</unitid>
+					<unitdate normal="1953/1980">1953-1980</unitdate>
+					<physdesc>
+						<extent>2,072 black-and-white negatives</extent>
+					</physdesc>
+					<container type="Binder">Binder 4, Pages 001-155</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arizona</geogname>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Montana</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Utah</geogname>
+						<geogname>Wisconsin</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroad Names</head>
+						<corpname>American Car &amp; Foundry Company</corpname>
+						<corpname>Association of Western Railways</corpname>
+						<corpname>Atchison, Topeka &amp; Santa Fe</corpname>
+						<corpname>Baltimore &amp; Ohio</corpname>
+						<corpname>Burlington Northern; Chicago &amp; North Western</corpname>
+						<corpname>Chicago Great Western</corpname>
+						<corpname>Chicago Union Station Company</corpname>
+						<corpname>Chicago, Burlington &amp; Quincy</corpname>
+						<corpname>Chicago, Milwaukee, St. Paul &amp; Pacific</corpname>
+						<corpname>Chicago, Rock Island &amp; Pacific</corpname>
+						<corpname>Denver &amp; Rio Grande Western</corpname>
+						<corpname>Grand Central Terminal</corpname>
+						<corpname>Great Northern</corpname>
+						<corpname>Illinois Central</corpname>
+						<corpname>Kansas City Terminal</corpname>
+						<corpname>Minneapolis &amp; St. Louis</corpname>
+						<corpname>Minneapolis, Northfield &amp; Southern</corpname>
+						<corpname>Missouri Pacific</corpname>
+						<corpname>New York Central</corpname>
+						<corpname>New York, Chicago &amp; St. Louis</corpname>
+						<corpname>Northern Pacific</corpname>
+						<corpname>Ottawa Junction Yard</corpname>
+						<corpname>Pennsylvania</corpname>
+						<corpname>Soo Line</corpname>
+						<corpname>St. Paul Union Depot Company</corpname>
+						<corpname>Transportation Test Center</corpname>
+						<corpname>Union Pacific</corpname>
+						<corpname>Unit Load Company</corpname>
+						<corpname>Wabash</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Abbey-05</unitid>
+					<unitdate normal="1961/1964">1961-1964</unitdate>
+					<physdesc>
+						<extent>2,816 black-and-white negatives</extent>
+					</physdesc>
+					<container type="Binder">Binder 5, Pages 001-128</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroad Names</head>
+						<corpname>Atchison, Topeka &amp; Santa Fe</corpname>
+						<corpname>Chicago &amp; North Western</corpname>
+						<corpname>Chicago, Burlington &amp; Quincy</corpname>
+						<corpname>Chicago, Milwaukee, St. Paul &amp; Pacific</corpname>
+						<corpname>Chicago, Rock Island &amp; Pacific</corpname>
+						<corpname>New York Central</corpname>
+						<corpname>Northern Pacific</corpname>
+						<corpname>Soo Line</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Abbey-06</unitid>
+					<unitdate normal="1962/1969">1962-1969</unitdate>
+					<physdesc>
+						<extent>3,965 black-and-white negatives</extent>
+					</physdesc>
+					<container type="Binder">Binder 6, Pages 001-128</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Delaware</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>West Virginia</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroad Names</head>
+						<corpname>Atchison, Topeka &amp; Santa Fe</corpname>
+						<corpname>Black Hills Central</corpname>
+						<corpname>Chicago &amp; North Western</corpname>
+						<corpname>Chicago Great Western</corpname>
+						<corpname>Chicago, Burlington &amp; Quincy</corpname>
+						<corpname>Chicago, Milwaukee, St. Paul &amp; Pacific</corpname>
+						<corpname>Duluth, Missabe &amp; Iron Range Railway</corpname>
+						<corpname>Erman Corporation</corpname>
+						<corpname>Great Northern</corpname>
+						<corpname>Indianapolis Union Station</corpname>
+						<corpname>Northern Pacific Railroad</corpname>
+						<corpname>Penn Central</corpname>
+						<corpname>Reserve Mining Co. Cars</corpname>
+						<corpname>Soo Line</corpname>
+						<corpname>Union Pacific</corpname>
+						<corpname>Zephyr</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Abbey-07</unitid>
+					<unitdate normal="1969/1971">1969-1971</unitdate>
+					<physdesc>
+						<extent>4,898 black-and-white negatives</extent>
+					</physdesc>
+					<container type="Binder">Binder 7, Pages 001-162</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>District of Columbia</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Montana</geogname>
+						<geogname>New Mexico</geogname>
+						<geogname>New York</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Texas</geogname>
+						<geogname>Utah</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroad Names</head>
+						<corpname>Amtrak</corpname>
+						<corpname>Atchison, Topeka and Santa Fe Railway</corpname>
+						<corpname>Burlington Northern</corpname>
+						<corpname>Canadian Pacific Railway</corpname>
+						<corpname>Chicago, Burlington and Quincy Railroad</corpname>
+						<corpname>Chicago, Milwaukee, St. Paul and Pacific Railroad</corpname>
+						<corpname>Circus Train</corpname>
+						<corpname>General Motors</corpname>
+						<corpname>Great Northern Railway</corpname>
+						<corpname>Manchester Liners</corpname>
+						<corpname>Metroliner</corpname>
+						<corpname>Midland Continental</corpname>
+						<corpname>The Milkwaukee Road</corpname>
+						<corpname>Minneapolis Northfield and Southern Railway</corpname>
+						<corpname>New York Central</corpname>
+						<corpname>Norfolk and Western</corpname>
+						<corpname>Northern Pacific Railway</corpname>
+						<corpname>Penn Central</corpname>
+						<corpname>Soo Line</corpname>
+						<corpname>Southern Pacific</corpname>
+						<corpname>Spokane, Portland &amp; Seattle Railway</corpname>
+						<corpname>Super Snooper Detector Car</corpname>
+						<corpname>Union Pacific Railroad</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Abbey-08</unitid>
+					<unitdate normal="1972/1980">1972-1980</unitdate>
+					<physdesc>
+						<extent>2,472 black-and-white negatives</extent>
+					</physdesc>
+					<container type="Binder">Binder 8, Pages 001-099</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>North Dakota</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroad Names</head>
+						<corpname>Algers, Winslow and Western</corpname>
+						<corpname>Amtrak</corpname>
+						<corpname>Atchison, Topeka &amp; Santa Fe Railroad</corpname>
+						<corpname>Baltimore and Ohio</corpname>
+						<corpname>Burlington Northern</corpname>
+						<corpname>Chesapeake and Ohio</corpname>
+						<corpname>Chicago and North Western Railroad</corpname>
+						<corpname>Chicago South Shore Line</corpname>
+						<corpname>Chicago, Milwaukee, St. Paul and Pacific Railroad</corpname>
+						<corpname>Chicago, Rock Island and Pacific Railroad</corpname>
+						<corpname>Conrail</corpname>
+						<corpname>Copper Range Railroad</corpname>
+						<corpname>Gulf, Mobile and Ohio</corpname>
+						<corpname>Illinois Central Railroad</corpname>
+						<corpname>Kansas City Southern Railway</corpname>
+						<corpname>The Milwaukee Road</corpname>
+						<corpname>Soo Line</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Abbey-09</unitid>
+					<unitdate normal="1981/1988">1981-1988</unitdate>
+					<physdesc>
+						<extent>3,043 black-and-white negatives</extent>
+					</physdesc>
+					<container type="Binder">Binder 9, Pages 001-115</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arizona</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>District of Columbia</geogname>
+						<geogname>Idaho</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Kansas</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>New Mexico</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>South Dakota</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+					<controlaccess>
+						<head>Railroad Names</head>
+						<corpname>Atchison, Topeka &amp; Santa Fe Railroad</corpname>
+						<corpname>Baltimore and Ohio</corpname>
+						<corpname>Burlington Northern</corpname>
+						<corpname>Chicago and North Western</corpname>
+						<corpname>Cincinnnati Union Terminal</corpname>
+						<corpname>Cole Bros. Cirus Train</corpname>
+						<corpname>General Motors</corpname>
+						<corpname>Great Lakes Coals Dock Co.</corpname>
+						<corpname>The Milwaukee Road</corpname>
+						<corpname>Minneapolis Northfield and Southern Railway</corpname>
+						<corpname>Norfolk and Western Railway</corpname>
+						<corpname>Rio Grande</corpname>
+						<corpname>Soo Line</corpname>
+						<corpname>Sperry Rail Service</corpname>
+						<corpname>St. Louis–San Francisco Railway</corpname>
+						<corpname>Transportation Test Center</corpname>
+						<corpname>Union Pacific</corpname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>
