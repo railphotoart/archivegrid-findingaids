@@ -417,15 +417,20 @@
 		</controlaccess>
 		<bioghist>
 			<head>Biographical Note</head>
-			<p>{{BIO}}</p>
+			<p>Robert A. Hadley was born on May 10, 1912 to Florence and Frank Hadley in Bancroft, Michigan. Growing up in a railroad family, he had the opportunity to experience train culture firsthand. Robert's grandfather worked for years as a crossing watchman for Grand Trunk Western, and when he was 16, Robert was allowed to work alongside at the GTW depot. He would complete odd jobs around the depot, and this work instilled in him a deep love for railroading that he would never outgrow.</p>
+			<p>While he was still a teenager, Robert began working as a theater usher. This job led him to a new position that involved lettering advertisements and signs for the theater which, in turn, fostered an interest in art. Unbeknownst to him at the time, Robert's love for both the railroad and art would later converge and become an integral aspect of his life in the coming years. By the time that Robert married Frances Eyre in 1934, Robert began to apply his artistic abilities to a new passion: photography. He was so involved in his photography work that he built his own darkroom, enlarger, and even prepared his own chemicals. This obsession became his job as he joined the Army in 1941, and he became a reconnaissance photographer for the Army Air Corps.</p>
+			<p>Once his stint in the military was completed, Robert moved into commercial photography, and began work for the Ferguson Corporation (later known as Massey-Ferguson), a farm implement manufacturer. Soon, his love for the railroad resurfaced, and he would combine his two loves into one overarching hobby: shooting trains.</p>
+			<p>His work is characterized by more than just the typical wedge "roster shots." Robert liked to show where these trains were coming from and where they were going. His photographs depict trains traveling through stunning landscapes, passing historic buildings, and his subject's enviornment in order to convey a grander view of the landscape. While trains were the stars of his photographs, Hadley seemed to believe that their backdrop was just as important. He traveled across the United States and Canada, and even ventured to Europe to capture these amazing images over multiple decades.</p>
+			<p>Robert was also very active in a variety of groups, including the GTW Historical Society, Steam Railroading Institute in Owosso, Michigan, and even helped found the Michigan Railroad Club, whose excursions he photogrpahed and included in his collections. Though Robert Hadley passed away on June 25, 2006 at the impressive age of 94 (amazingly, he was shooting up until this time), the images that he captured will be sure to not only preserve his legacy, but also provide an invaluable look at the history of railroading in North America.</p>
 		</bioghist>
 		<scopecontent>
 			<head>Scope and Content Note</head>
-			<p>{{SCOPE/CONTENT}}</p>
+			<p>This collection focuses on United States and Canadian Railroads, with both black-and-white and color negatives. The dates range from 1908-2006, with the majority of the images falling between the early 1930s through the late 1950s.</p>
+			<p>Robert Hadley also took photographs of selections from various publications, and kept the negatives in his collection.</p>
 		</scopecontent>
 		<arrangement>
 			<head>Arrangement of the Collection</head>
-			<p>This collection follows Robert A. Hadley's original order.</p>
+			<p>This collection is arranged by Robert A. Hadley's original order.</p>
 		</arrangement>
 		<descgrp>
 			<head>Administrative Information</head>
@@ -453,10 +458,160 @@
 		</descgrp>
 		<altformavail>
 			<head>Digitized Versions Available</head>
-			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum/0/1/1/1?rq%5B0%5D=1518&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collections portal</extref>. Additionally, selected photographs are publicly available on the Center's website and social media pages.</p>
+			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum--staging/0/1/1/1?rq%5B0%5D=67262&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collections portal</extref>. Additionally, selected photographs are publicly available on the Center's website and social media pages.</p>
 		</altformavail>
 		<dsc>
-		<!-- CONTAINER LIST HERE !-->
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-01</unitid>
+					<unitdate normal="1932/1991">1932-1991</unitdate>
+					<container type="Binder">Binder 01, Pages 001-137</container>
+					<physdesc>
+						<extent>552 black-and-white negatives, 25 color negatives</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>United Kingdom</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-02</unitid>
+					<unitdate normal="1925/2006">1925-2006</unitdate>
+					<container type="Binder">Binder 02, Pages 001-159</container>
+					<physdesc>
+						<extent>844 black-and-white negatives, 42 color negatives</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-03</unitid>
+					<unitdate normal="1930/1992">1930-1992</unitdate>
+					<container type="Binder">Binder 03, Pages 001-150</container>
+					<physdesc>
+						<extent>653 black-and-white negatives, 5 color slides</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>United Kingdom</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-04</unitid>
+					<unitdate normal="1931/1994">1931-1994</unitdate>
+					<container type="Binder">Binder 04, 001-150</container>
+					<physdesc>
+						<extent>644 black-and-white negatives</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-05</unitid>
+					<unitdate normal="1908/1975">1908-1975</unitdate>
+					<container type="Binder">Binder 05, Pages 001-150</container>
+					<physdesc>
+						<extent>587 black-and-white negatives</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-06</unitid>
+					<unitdate normal="1916/1959">1916-1959</unitdate>
+					<container type="Binder">Binder 06, Pages 001-151</container>
+					<physdesc>
+						<extent>672 black-and-white negatives</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-07</unitid>
+					<unitdate normal="1916/1999">1916-1999</unitdate>
+					<container type="Binder">Binder 07, Pages 001-154</container>
+					<physdesc>
+						<extent>559 black-and-white negatives, 75 color slides</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>Germany</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-08</unitid>
+					<unitdate normal="1931/2000">1931-2000</unitdate>
+					<container type="Binder">Binder 08, Pages 001-154</container>
+					<physdesc>
+						<extent>453 black-and-white negatives, 146 color slides</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-09</unitid>
+					<unitdate normal="1918/1959">1918-1959</unitdate>
+					<container type="Binder">Binder 01, Pages 001-155</container>
+					<physdesc>
+						<extent>562 black-and-white negatives, 39 color slides</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Hadley-10</unitid>
+					<unitdate normal="1923/1966">1923-1966</unitdate>
+					<container type="Binder">Binder 10, Pages 001-203</container>
+					<physdesc>
+						<extent>761 black-and-white negatives</extent>
+					</physdesc>
+				</did>
+				<controlaccess>
+					<head>Countries</head>
+					<geogname>Canada</geogname>
+					<geogname>United States</geogname>
+				</controlaccess>
+			</c01>
 		</dsc>
 	</archdesc>
 </ead>
