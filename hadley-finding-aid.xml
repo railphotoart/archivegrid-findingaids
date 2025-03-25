@@ -483,7 +483,8 @@
 					<unitdate normal="1925/2006">1925-2006</unitdate>
 					<container type="Binder">Binder 02, Pages 001-159</container>
 					<physdesc>
-						<extent>844 black-and-white negatives, 42 color negatives</extent>
+						<extent>844 black-and-white negatives</extent>
+						<extent>42 color negatives</extent>
 					</physdesc>
 				</did>
 				<controlaccess>
@@ -498,7 +499,8 @@
 					<unitdate normal="1930/1992">1930-1992</unitdate>
 					<container type="Binder">Binder 03, Pages 001-150</container>
 					<physdesc>
-						<extent>653 black-and-white negatives, 5 color slides</extent>
+						<extent>653 black-and-white negatives</extent>
+						<extent>5 color slides</extent>
 					</physdesc>
 				</did>
 				<controlaccess>
@@ -558,7 +560,8 @@
 					<unitdate normal="1916/1999">1916-1999</unitdate>
 					<container type="Binder">Binder 07, Pages 001-154</container>
 					<physdesc>
-						<extent>559 black-and-white negatives, 75 color slides</extent>
+						<extent>559 black-and-white negatives</extent>
+						<extent>75 color slides</extent>
 					</physdesc>
 				</did>
 				<controlaccess>
@@ -574,7 +577,8 @@
 					<unitdate normal="1931/2000">1931-2000</unitdate>
 					<container type="Binder">Binder 08, Pages 001-154</container>
 					<physdesc>
-						<extent>453 black-and-white negatives, 146 color slides</extent>
+						<extent>453 black-and-white negatives</extent>
+						<extent>146 color slides</extent>
 					</physdesc>
 				</did>
 				<controlaccess>
@@ -588,7 +592,8 @@
 					<unitdate normal="1918/1959">1918-1959</unitdate>
 					<container type="Binder">Binder 01, Pages 001-155</container>
 					<physdesc>
-						<extent>562 black-and-white negatives, 39 color slides</extent>
+						<extent>562 black-and-white negatives</extent>
+						<extent>39 color slides</extent>
 					</physdesc>
 				</did>
 				<controlaccess>
