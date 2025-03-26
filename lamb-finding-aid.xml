@@ -51,9 +51,6 @@
 				<language langcode="eng" scriptcode="Latn">English</language>
 			</langmaterial>
 		</did>
-		<accruals>
-			<p>This ever-growing collection is being sent to the Center by J. Parker Lamb in batches of photographs</p>
-		</accruals>
 		<otherfindaid>
 			<p>The Center maintains an item-level inventory of the collection in addition to this finding aid.</p>
 		</otherfindaid>
@@ -66,29 +63,120 @@
 			</controlaccess>
 			<controlaccess>
 				<head>States/Provinces</head>
-				<geogname source="tgn">{{STATE/PROVINCE}}</geogname>
+				<geogname source="tgn">Alabama</geogname>
+				<geogname source="tgn">Arkansas</geogname>
+				<geogname source="tgn">British Columbia</geogname>
+				<geogname source="tgn">California</geogname>
+				<geogname source="tgn">Colorado</geogname>
+				<geogname source="tgn">Georgia</geogname>
+				<geogname source="tgn">Illinois</geogname>
+				<geogname source="tgn">Indiana</geogname>
+				<geogname source="tgn">Iowa</geogname>
+				<geogname source="tgn">Kentucky</geogname>
+				<geogname source="tgn">Louisiana</geogname>
+				<geogname source="tgn">Maine</geogname>
+				<geogname source="tgn">Maryland</geogname>
+				<geogname source="tgn">Massachusetts</geogname>
+				<geogname source="tgn">Michigan</geogname>
+				<geogname source="tgn">Minnesota</geogname>
+				<geogname source="tgn">Mississippi</geogname>
+				<geogname source="tgn">Missouri</geogname>
+				<geogname source="tgn">Nevada</geogname>
+				<geogname source="tgn">New Hampshire</geogname>
+				<geogname source="tgn">New Mexico</geogname>
+				<geogname source="tgn">North Carolina</geogname>
+				<geogname source="tgn">Ohio</geogname>
+				<geogname source="tgn">Oklahoma</geogname>
+				<geogname source="tgn">Ontario</geogname>
+				<geogname source="tgn">Pennsylvania</geogname>
+				<geogname source="tgn">Quebec</geogname>
+				<geogname source="tgn">South Carolina</geogname>
+				<geogname source="tgn">Tennessee</geogname>
+				<geogname source="tgn">Texas</geogname>
+				<geogname source="tgn">Vermont</geogname>
+				<geogname source="tgn">Virginia</geogname>
+				<geogname source="tgn">West Virginia</geogname>
+				<geogname source="tgn">Wisconsin</geogname>
 			</controlaccess>
 			<controlaccess>
 				<head>Railroads</head>
-				<corpname source="viaf">{{RAILROAD}}</corpname>
+				<corpname>Akron, Canton and Youngstown Railroad</corpname>
+				<corpname>Alton and Southern Railway</corpname>
+				<corpname>Atchison, Topeka and Santa Fe Railway</corpname>
+				<corpname>Atlantic Coast Line Railroad</corpname>
+				<corpname>Baltimore &amp; Ohio Railroad</corpname>
+				<corpname>Bangor and Aroostook Railroad</corpname>
+				<corpname>Bevier and Southern Railroad</corpname>
+				<corpname>Boston and Maine Railroad</corpname>
+				<corpname>British Columbia Railway</corpname>
+				<corpname>Canadian National Railway</corpname>
+				<corpname>Canadian Pacific Railway</corpname>
+				<corpname>Central Railroad of New Jersey</corpname>
+				<corpname>Chicago &amp; Eastern Illinois Railroad</corpname>
+				<corpname>Chicago and Illinois Midland Railway</corpname>
+				<corpname>Chicago and North Western Transportation Company</corpname>
+				<corpname>Chicago, Burlington and Quincy Railroad</corpname>
+				<corpname>Chicago, Milwaukee, St. Paul and Pacific Railroad</corpname>
+				<corpname>Chicago, Rock Island and Pacific Railroad</corpname>
+				<corpname>Clinchfield Railroad</corpname>
+				<corpname>Delaware and Hudson Railway</corpname>
+				<corpname>Detroit, Toledo and Ironton Railroad</corpname>
+				<corpname>Duluth and Northeastern Railroad</corpname>
+				<corpname>Duluth, Missabe and Iron Range Railway</corpname>
+				<corpname>Erie Railroad</corpname>
+				<corpname>Erie Lackawanna Railway</corpname>
+				<corpname>Gulf, Mobile and Ohio Railroad</corpname>
+				<corpname>Illinois Central</corpname>
+				<corpname>Illinois Terminal Railroad</corpname>
+				<corpname>Kansas City Southern Railway</corpname>
+				<corpname>Louisville and Nashville Railroad</corpname>
+				<corpname>Maine Central Railroad</corpname>
+				<corpname>Missouri-Kansas-Texas Railroad</corpname>
+				<corpname>Missouri Pacific Railroad</corpname>
+				<corpname>Monon Railroad</corpname>
+				<corpname>New York Central Railroad</corpname>
+				<corpname>New York, Chicago and St. Louis Railroad</corpname>
+				<corpname>Nickel Plate Road</corpname>
+				<corpname>Norfolk and Western Railway</corpname>
+				<corpname>Norfolk Southern Railway</corpname>
+				<corpname>Peabody Short Line</corpname>
+				<corpname>Pennsylvania Railroad</corpname>
+				<corpname>Peoria and Eastern Railway</corpname>
+				<corpname>Seaboard Air Line Railroad</corpname>
+				<corpname>Southern Pacific Railroad</corpname>
+				<corpname>Southern Railway</corpname>
+				<corpname>St. Louis-San Francisco Railway</corpname>
+				<corpname>St. Louis-Southwestern Railway</corpname>
+				<corpname>Texas and Pacific Railway</corpname>
+				<corpname>Toledo, Peoria and Western Railway</corpname>
+				<corpname>Virginian Railway</corpname>
+				<corpname>Wabash Railroad</corpname>
+				<corpname>Western Maryland Railway</corpname>
 			</controlaccess>
 			<controlaccess>
 				<head>Subjects</head>
-				<subject source="lcsh">{{SUBJECT}}</subject>
+				<subject source="lcsh">Photography of railroads</subject>
+				<subject source="lcsh">Railroads--Pictorial works</subject>
 			</controlaccess>
 		</controlaccess>
 		<bioghist>
 			<head>Biographical Note</head>
-			<p>{{BIO}}</p>
+			<p>J. Parker Lamb (b. 1933), one of the deans of post-World War II railroad photography in the United States, is donating his remarkable photographic works to the Center. Lamb retired in 2001 after a distinguished tenure in the engineering faculty of the University of Texas in Austin. His hundreds of published photographs display a talent that is at once journalistic and artistic, as seen in <emph>Steel Wheels Rolling</emph> (Boston Mills Press, 2001), a portfolio of his work, and his several other books. In 1991, he received the Fred A. and Jane R. Stindt Photography Award from the Railway &amp; Locomotive Historical Society. "While other well-known photographers provided most of the imagery of the passing of steam, it was Parker who provided the best contextual images of the conquering diesels," the citation said.</p>
+			<p>Born in Boligee, Alabama, Lamb moved with his family to Meridian, Mississippi, in 1938 before his fifth birthday. While Boligee had been a tiny crossroads on the Alabama Great Southern, Meridian was a busy junction city with three class one railroads and one short line.</p>
+			<p>A friendly tower operator, Guy Horton, taught Lamb about railroad operations. Lamb's train watching became more serious with his discovery of <emph>Trains</emph> and <emph>Railroad</emph> magazines right after World War II. That led Lamb to begin making photographs in 1949, when he was in the 11th grade.</p>
+			<p>Legendary <emph>Trains</emph> magazine editor David P. Morgan helped Lamb develop as a fledgling photographer. During his college years at Auburn University, 1951 to 1955, Lamb made his first submission to <emph>Trains</emph>, and the editor replied with an encouraging letter. Lamb said, "Over the next four to five years, he kept encouraging me to take more pictures because he said they didn't have much material from the South. So I must give considerable credit to his encouragement in my younger days."</p>
+			<p>From Auburn, Lamb went to Dayton, Ohio, for a two-year military tour as an officer at Wright-Patterson Air Force Base, and then to Champaign, Illinois, where he earned a graduate degree from the University of Illinois. He began his teaching career in 1961 with two enjoyable years at North Carolina State University in Raleigh, and then moved to Austin in 1963. He has photographed railroads along every step of teh way, both locally as well as while traveling.</p>
+			<p>Lamb began digitizing his images in 2004, paving the way for his work to find a permanent home in the Center's extensive collection. He expressed his thinking this way, "I received a lifetime of satisfaction and enjoyment during the creation of these images, and I hope that others will be able to use them to learn about American railroads in the twentieth century."</p>
+			<p>&#8212;John Gruber, adapted from his Winter 2000 article in <emph>Classic Trains</emph></p>
 		</bioghist>
 		<scopecontent>
 			<head>Scope and Content Note</head>
-			<p>{{SCOPE/CONTENT}}</p>
+			<p>This collection consists of approximately 2,700 black-and-white negatives. The collection has a strong focus on the American Midwest and Southeast, with an emphasis on Illinois and Texas, capturing the transition of steam powered locomotives to diesel engine locomotives.</p>
 		</scopecontent>
 		<arrangement>
 			<head>Arrangement of the Collection</head>
 			<p>The collection is arranged by the original order of the photographer, J. Parker Lamb, by region with various railroads within those groups. Grouping titles were based on the batches which were labeled:</p>
-			<list type="ordered">
+			<list type="marked">
 				<item>B&amp;O, Erie and IC, N&amp;W and PRR, NYC Diesel, NYC Steam</item>
 				<item>Illinois A</item>
 				<item>Illinois B</item>
@@ -109,12 +197,15 @@
 			<head>Administrative Information</head>
 			<acqinfo>
 				<head>Provenance</head>
-				<p>{{ACQUISITION INFO}}</p>
+				<p>This collection was donated to the Center by J. Parker Lamb beginning in Fall 2015 in batches, typically 200-300 negatives at a time.</p>
 			</acqinfo>
 			<processinfo>
 				<head>Processing History</head>
-				<p>{{PROCESSING INFO}}</p>
+				<p>Processing began in late 2015.</p>
 			</processinfo>
+			<accruals>
+			<p>This ever-growing collection is being sent to the Center by J. Parker Lamb in batches of photographs</p>
+			</accruals>
 			<userestrict>
 				<head>Access and Restrictions</head>
 				<p></p>
@@ -131,12 +222,12 @@
 		</descgrp>
 		<altformavail>
 			<head>Digitized Versions Available</head>
-			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum/0/1/1/1?rq%5B0%5D=1527&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collections portal</extref>.</p>
+			<p>Images from this collection have been digitized and are available through <extref xlink:href="https://railphoto.historyit.com/search-interfaces/search/digital-museum/0/1/1/1?rq%5B0%5D=67245&amp;ip=1" xlink:show="new" xlink:type="simple">CRP&amp;A's online collections portal</extref>.</p>
 		</altformavail>
 		<bibliography>
 			<head>Related CRP&amp;A Publications</head>
-			<bibref>Lothes, Scott, ed. <title render="italic">Significant Images of Railroading</title>. Bloomington: Indiana University Press, 2016.</bibref>
-			<bibref>"Leo King Views Work." <title render="italic">Railroad Heritage</title> No. 10 (2004).</bibref>
+			<bibref>Keefe, Kevin P., ed. <title render="italic">The Railroad Photography of J. Parker Lamb.</title> Madison: Center for Railroad Photography &amp; Art, 2019.
+			</bibref>
 		</bibliography>
 		<dsc>
 			<c01 level="recordgrp">
@@ -155,7 +246,198 @@
 					</controlaccess>
 				</controlaccess>
 			</c01>
-			<!-- ADD REST OF CONTAINER LIST HERE !-->
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Illinois A, Illinois B, Illinois C</unitid>
+					<unitdate normal="1957/1960">1957-1960</unitdate>
+					<container type="Binder" label="Binder">Lamb-01, Pages 027-067</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arkansas</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Indiana</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Michigan</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Missouri</geogname>
+						<geogname>Ohio</geogname>
+						<geogname>Ontario</geogname>
+						<geogname>Tennessee</geogname>
+						<geogname>Virginia</geogname>
+						<geogname>West Virginia</geogname>
+						<geogname>Wisconsin</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>North Carolina A, North Carolina B</unitid>
+					<unitdate normal="1961/1974">1961-1974</unitdate>
+					<container type="Binder" label="Binder">Lamb-01, Pages 068-095</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>North Carolina</geogname>
+						<geogname>South Carolina</geogname>
+						<geogname>Tennessee</geogname>
+						<geogname>Virginia</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Gulf States I</unitid>
+					<unitdate normal="1949/1985">1949-1985</unitdate>
+					<container type="Binder" label="Binder">Lamb-01, Pages 096-135</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Alabama</geogname>
+						<geogname>Florida</geogname>
+						<geogname>Georgia</geogname>
+						<geogname>Louisiana</geogname>
+						<geogname>Mississippi</geogname>
+						<geogname>Tennessee</geogname>
+						<geogname>Virginia</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Gulf States II</unitid>
+					<unitdate normal="1951/1983">1951-1983</unitdate>
+					<container type="Binder" label="Binder">Lamb-01, Pages 136-151</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Alabama</geogname>
+						<geogname>Georgia</geogname>
+						<geogname>Illinois</geogname>
+						<geogname>Kentucky</geogname>
+						<geogname>Mississippi</geogname>
+						<geogname>Tennessee</geogname>
+						<geogname>Texas</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Gulf States III</unitid>
+					<unitdate normal="1950/1976">1950-1976</unitdate>
+					<container type="Binder" label="Binder">Lamb-02, Pages 001-022</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Alabama</geogname>
+						<geogname>California</geogname>
+						<geogname>Georgia</geogname>
+						<geogname>Louisiana</geogname>
+						<geogname>Mississippi</geogname>
+						<geogname>Oklahoma</geogname>
+						<geogname>Tennessee</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Gulf States IV</unitid>
+					<unitdate normal="1948/1985">1948-1985</unitdate>
+					<container type="Binder" label="Binder">Lamb-02, Pages 023-039</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Alabama</geogname>
+						<geogname>California</geogname>
+						<geogname>Georgia</geogname>
+						<geogname>Mississippi</geogname>
+						<geogname>Tennessee</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Texas A1</unitid>
+					<unitdate normal="1953/1988">1953-1988</unitdate>
+					<container type="Binder" label="Binder">Lamb-02, Pages 040-061</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arkansas</geogname>
+						<geogname>Louisiana</geogname>
+						<geogname>Oklahoma</geogname>
+						<geogname>Tennessee</geogname>
+						<geogname>Texas</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Texas A2</unitid>
+					<unitdate normal="1950/1988">1950-1988</unitdate>
+					<container type="Binder" label="Binder">Lamb-02, Pages 062-080</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>Arkansas</geogname>
+						<geogname>Louisiana</geogname>
+						<geogname>Texas</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Texas B1</unitid>
+					<unitdate normal="1968/1988">1968-1988</unitdate>
+					<container type="Binder" label="Binder">Lamb-02, Pages 081-102</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Nevada</geogname>
+						<geogname>New Mexico</geogname>
+						<geogname>Texas</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
+			<c01 level="recordgrp">
+				<did>
+					<unitid>Texas B2</unitid>
+					<unitdate normal="1968/1981">1968-1981</unitdate>
+					<container type="Binder" label="Binder">Lamb-02, Pages 103-118</container>
+				</did>
+				<controlaccess>
+					<controlaccess>
+						<head>States/Provinces</head>
+						<geogname>British Columbia</geogname>
+						<geogname>California</geogname>
+						<geogname>Colorado</geogname>
+						<geogname>Iowa</geogname>
+						<geogname>Maine</geogname>
+						<geogname>Maryland</geogname>
+						<geogname>Massachusetts</geogname>
+						<geogname>Minnesota</geogname>
+						<geogname>Nebraska</geogname>
+						<geogname>New Hampshire</geogname>
+						<geogname>Pennsylvania</geogname>
+						<geogname>Quebec</geogname>
+						<geogname>Texas</geogname>
+						<geogname>Vermont</geogname>
+						<geogname>Washington</geogname>
+						<geogname>Wyoming</geogname>
+					</controlaccess>
+				</controlaccess>
+			</c01>
 		</dsc>
 	</archdesc>
 </ead>
